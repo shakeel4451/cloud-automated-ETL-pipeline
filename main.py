@@ -36,5 +36,15 @@ def fetch_top_stories():
       item_url=f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
 
       item_data=requests.get(item_url,timeout=5).json()
-  except:
-    print
+      if item_data and "title" in item_data and "url" in item_data:
+        stories.append((
+          item_data["id"],
+          item_data["title"],
+          item_data["url"],
+          item_data.get("score", 0),
+          datetime.now().strftime("%Y-%m-%d %H:%M:%S")
+          ))
+    return stories
+  except Exception as e:
+    print(f"❌ Extraction Failed: {e}")
+    return []
