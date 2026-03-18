@@ -11,4 +11,15 @@ def setup_database():
   conn=sqlite3.connect(DB_file)
   cursor=conn.cursor()
 
-  
+  cursor.execute('''
+  CREATE TABLE IF NOT EXISTS articles (
+            id INTEGER PRIMARY KEY,
+            title TEXT,
+            url TEXT,
+            score INTEGER,
+            extraction_date TEXT
+        )
+
+ ''')
+  conn.commit()
+  return conn
