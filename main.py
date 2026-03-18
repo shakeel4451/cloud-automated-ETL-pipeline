@@ -64,5 +64,20 @@ def export_to_csv(conn):
     df = pd.read_sql_query("SELECT * FROM articles ORDER BY extraction_date DESC", conn)
     df.to_csv(EXPORT_FILE, index=False)
 
-if __name__=="__main__":
-  print("🚀 Starting Automated ETL Pipeline...")
+if __name__ == "__main__":
+    print("🚀 Starting Automated ETL Pipeline...")
+    
+    conn = setup_database()
+    
+    print("📡 Extracting real-time market data...")
+    data = fetch_top_stories()
+    
+    if data:
+        print(f"💾 Ingesting {len(data)} records into SQLite database...")
+        save_to_db(conn, data)
+        
+        print("📊 Generating flat-file exports...")
+        export_to_csv(conn)
+        
+    conn.close()
+    print("✅ Pipeline execution complete!")
