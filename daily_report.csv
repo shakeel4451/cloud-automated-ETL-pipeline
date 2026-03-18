@@ -29,3 +29,4 @@ id,title,url,score,extraction_date
 47378781,"Show HN: Hacker News archive (47M+ items, 11.6GB) as Parquet, updated every 5m",https://huggingface.co/datasets/open-index/hacker-news,171,2026-03-19 01:26:15
 47423647,Rob Pike's Rules of Programming (1989),https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html,719,2026-03-19 01:26:14
 47386703,OpenRocket,https://openrocket.info/,192,2026-03-19 01:26:13
+47395786,I reverse-engineered the TiinyAI Pocket Lab from marketing photos,https://bay41.com/posts/tiiny-ai-pocket-lab-review/,8,2026-03-18 20:54:10
