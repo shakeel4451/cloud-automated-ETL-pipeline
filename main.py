@@ -23,3 +23,18 @@ def setup_database():
  ''')
   conn.commit()
   return conn
+
+def fetch_top_stories():
+  """Extracts data from the Hacker News API."""
+  url = "https://hacker-news.firebaseio.com/v0/topstories.json"
+
+  try:
+    response = requests.get(url, timeout=10).json()
+    stories = []
+
+    for story_id in response[:30]:
+      item_url=f"https://hacker-news.firebaseio.com/v0/item/{story_id}.json"
+
+      item_data=requests.get(item_url,timeout=5).json()
+  except:
+    print
