@@ -58,3 +58,11 @@ def save_to_db(conn,stories):
         VALUES (?, ?, ?, ?, ?)
     ''', stories)
   conn.commit()
+
+def export_to_csv(conn):
+    """Generates the flat-file report from the relational database."""
+    df = pd.read_sql_query("SELECT * FROM articles ORDER BY extraction_date DESC", conn)
+    df.to_csv(EXPORT_FILE, index=False)
+
+if __name__=="__main__":
+  print("🚀 Starting Automated ETL Pipeline...")
