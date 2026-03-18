@@ -27,7 +27,7 @@ jobs:
           pip install requests pandas
 
       - name: Execute Extraction Pipeline
-        run: python pipeline.py
+        run: python main.py
 
       - name: Commit Database to Repository
         run: |
