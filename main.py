@@ -52,3 +52,9 @@ def fetch_top_stories():
 def save_to_db(conn,stories):
   """Loads extracted data into the SQLite database."""
   cursor=conn.cursor()
+  # INSERT OR IGNORE is our UPSERT logic. If the ID exists, it skips it.
+  cursor.executemany('''
+        INSERT OR IGNORE INTO articles (id, title, url, score, extraction_date)
+        VALUES (?, ?, ?, ?, ?)
+    ''', stories)
+  conn.commit()
