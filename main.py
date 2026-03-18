@@ -48,3 +48,7 @@ def fetch_top_stories():
   except Exception as e:
     print(f"❌ Extraction Failed: {e}")
     return []
+  
+def save_to_db(conn,stories):
+  """Loads extracted data into the SQLite database."""
+  cursor=conn.cursor()
