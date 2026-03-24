@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+47484519,“Collaboration” is bullshit,https://www.joanwestenberg.com/collaboration-is-bullshit/,309,2026-03-24 02:23:38
+47487436,Migrating to the EU,https://rz01.org/eu-migration/,834,2026-03-24 02:23:38
+47493194,Designing AI for Disruptive Science,https://www.asimov.press/p/ai-science,64,2026-03-24 02:23:38
+47496583,"AI boom risks widening wealth divide, says BlackRock's Larry Fink",https://www.theguardian.com/technology/2026/mar/23/ai-boom-risks-widening-wealth-divide-blackrock-larry-fink,36,2026-03-24 02:23:38
+47436592,Bombadil: Property-based testing for web UIs,https://github.com/antithesishq/bombadil,223,2026-03-24 02:23:37
+47437005,An unsolicited guide to being a researcher [pdf],https://emerge-lab.github.io/papers/an-unsolicited-guide-to-good-research.pdf,168,2026-03-24 02:23:37
+47459363,BIO: The Bao I/O Coprocessor,https://www.bunniestudios.com/blog/2026/bio-the-bao-i-o-coprocessor/,125,2026-03-24 02:23:37
+47487536,I built an AI receptionist for a mechanic shop,https://www.itsthatlady.dev/blog/building-an-ai-receptionist-for-my-brother/,218,2026-03-24 02:23:37
+47489044,America tells private firms to “hack back”,https://www.economist.com/united-states/2026/03/22/america-tells-private-firms-to-hack-back,114,2026-03-24 02:23:37
+47492599,US and TotalEnergies reach 'nearly $1B' deal to end offshore wind projects,https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html,347,2026-03-24 02:23:37
+47496305,Pentagon Adopts New Limits for Journalists After Court Loss,https://www.nytimes.com/2026/03/23/business/media/pentagon-closes-journalists-work-area.html,54,2026-03-24 02:23:37
+47429393,Abusing Customizable Selects,https://css-tricks.com/abusing-customizable-selects/,28,2026-03-24 02:23:36
+47443903,Finding all regex matches has always been O(n²),https://iev.ee/blog/the-quadratic-problem-nobody-fixed/,161,2026-03-24 02:23:36
+47475417,Dune3d: A parametric 3D CAD application,https://github.com/dune3d/dune3d,105,2026-03-24 02:23:36
+47475888,Trivy under attack again: Widespread GitHub Actions tag compromise secrets,https://socket.dev/blog/trivy-under-attack-again-github-actions-compromise,157,2026-03-24 02:23:36
+47486386,Two pilots dead after plane and ground vehicle collide at LaGuardia,https://www.bbc.com/news/articles/cy01g522ww4o,353,2026-03-24 02:23:36
+47490648,An incoherent Rust,https://www.boxyuwu.blog/posts/an-incoherent-rust/,126,2026-03-24 02:23:36
+47493657,Local Stack Archived their GitHub repo and requires an account to run,https://github.com/localstack/localstack,159,2026-03-24 02:23:36
+47494821,A retro terminal music player inspired by Winamp,https://github.com/bjarneo/cliamp,53,2026-03-24 02:23:36
+47494890,How I'm Productive with Claude Code,https://neilkakkar.com/productive-with-claude-code.html,121,2026-03-24 02:23:36
+47495527,Claude Code Cheat Sheet,https://cc.storyfox.cz,161,2026-03-24 02:23:36
+47496089,IRIX 3dfx Voodoo driver and glide2x IRIX port,https://sdz-mods.com/index.php/2026/03/23/irix-3dfx-voodoo-driver-glide2x-irix-port/,32,2026-03-24 02:23:36
+47453398,Pompeii's battle scars linked to an ancient 'machine gun',https://phys.org/news/2026-03-pompeii-scars-linked-ancient-machine.html,17,2026-03-24 02:23:35
+47467719,Ju Ci: The Art of Repairing Porcelain,https://thesublimeblog.org/2025/03/13/ju-ci-the-ancient-art-of-repairing-porcelain/,59,2026-03-24 02:23:35
+47490070,iPhone 17 Pro Demonstrated Running a 400B LLM,https://twitter.com/anemll/status/2035901335984611412,490,2026-03-24 02:23:35
+47491466,Show HN: Cq – Stack Overflow for AI coding agents,https://blog.mozilla.ai/cq-stack-overflow-for-agents/,68,2026-03-24 02:23:35
+47493460,Autoresearch on an old research idea,https://ykumar.me/blog/eclip-autoresearch/,277,2026-03-24 02:23:35
+47495344,FCC Updates Covered List to Include Foreign-Made Consumer Routers,https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers,185,2026-03-24 02:23:35
+47496221,Windows 3.1 tiled background .bmp archive,https://github.com/andreasjansson/win-3.1-backgrounds,153,2026-03-24 02:23:35
+47497679,I Created My First AI-Assisted Pull Request and I Feel Like a Fraud,https://nelson.cloud/i-created-my-first-ai-assisted-pull-request-and-i-feel-like-a-fraud/,23,2026-03-24 02:23:35
 47427224,25 Years of Eggs,https://www.john-rush.com/posts/eggs-25-years-20260219.html,254,2026-03-23 02:31:28
 47442194,Vectorization of Verilog Designs and its Effects on Verification and Synthesis,https://arxiv.org/abs/2603.17099,26,2026-03-23 02:31:28
 47480900,Teaching Claude to QA a mobile app,https://christophermeiklejohn.com/ai/zabriskie/development/android/ios/2026/03/22/teaching-claude-to-qa-a-mobile-app.html,66,2026-03-23 02:31:28
