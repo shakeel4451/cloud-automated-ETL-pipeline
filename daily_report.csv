@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+47475930,Data Manipulation in Clojure Compared to R and Python,https://codewithkira.com/2024-07-18-tablecloth-dplyr-pandas-polars.html,97,2026-03-25 02:28:44
+47497757,Epoch confirms GPT5.4 Pro solved a frontier math open problem,https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs,420,2026-03-25 02:28:44
+47501211,Nanobrew: The fastest macOS package manager compatible with brew,https://nanobrew.trilok.ai/,186,2026-03-25 02:28:44
+47505731,Show HN: Gridland: make terminal apps that also run in the browser,https://www.gridland.io/,72,2026-03-25 02:28:44
+47506641,ARM AGI CPU: Specs and SKUs,https://sbcwiki.com/docs/soc-manufacturers/arm/arm-silicon/,99,2026-03-25 02:28:44
+47508745,Is anybody else bored of talking about AI?,https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/,543,2026-03-25 02:28:44
+47455079,How the world’s first electric grid was built,https://worksinprogress.co/issue/how-the-worlds-first-electric-grid-was-built/,59,2026-03-25 02:28:43
+47501950,Missile defense is NP-complete,https://smu160.github.io/posts/missile-defense-is-np-complete/,269,2026-03-25 02:28:43
+47503810,Epic Games to cut more than 1k jobs as Fortnite usage falls,https://www.reuters.com/legal/litigation/epic-games-said-tuesday-that-it-will-lay-off-more-than-1000-employees-2026-03-24/,272,2026-03-25 02:28:43
+47504094,"Hypothesis, Antithesis, synthesis",https://antithesis.com/blog/2026/hegel/,210,2026-03-25 02:28:43
+47504615,No Terms. No Conditions,https://notermsnoconditions.com,229,2026-03-25 02:28:43
+47506490,Lago (YC S21) Is Hiring,https://getlago.notion.site/Lago-Product-Engineer-AI-Agents-for-Growth-327ef63110d280cdb030ccf429d3e4d7?source=copy_link,1,2026-03-25 02:28:43
+47460404,Transformers Are Bayesian Networks,https://arxiv.org/abs/2603.17063,16,2026-03-25 02:28:42
+47461766,What happened to GEM?,https://dfarq.homeip.net/whatever-happened-to-gem/,50,2026-03-25 02:28:42
+47503617,"Show HN: Gemini can now natively embed video, so I built sub-second video search",https://github.com/ssrajadh/sentrysearch,262,2026-03-25 02:28:42
+47504695,Hypura – A storage-tier-aware LLM inference scheduler for Apple Silicon,https://github.com/t8/hypura,194,2026-03-25 02:28:42
+47505144,"Show HN: Email.md – Markdown to responsive, email-safe HTML",https://www.emailmd.dev/,224,2026-03-25 02:28:42
+47507150,Wine 11 rewrites how Linux runs Windows games at kernel with massive speed gains,https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/,694,2026-03-25 02:28:42
+47463548,Algorithm Visualizer,https://algorithm-visualizer.org/,27,2026-03-25 02:28:41
+47472120,"An Aural Companion for Decades, CBS News Radio Crackles to a Close",https://www.nytimes.com/2026/03/21/business/media/cbs-news-radio-appraisal.html,27,2026-03-25 02:28:41
+47501426,Tell HN: Litellm 1.82.7 and 1.82.8 on PyPI are compromised,https://github.com/BerriAI/litellm/issues/24512,504,2026-03-25 02:28:41
+47504112,Apple Business,https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/,525,2026-03-25 02:28:41
+47506251,Arm AGI CPU,https://newsroom.arm.com/blog/introducing-arm-agi-cpu,282,2026-03-25 02:28:41
+47511208,A Compiler Writing Journey,https://github.com/DoctorWkt/acwj,34,2026-03-25 02:28:41
+47511631,Zero-Cost POSIX Compliance: Encoding the Socket State Machine in Lean's Types,https://ngrislain.github.io/blog/2026-3-25-zerocost-posix-compliance-encoding-the-socket-state-machine-in-lean-4s-type-system/,18,2026-03-25 02:28:41
+47506713,Show HN: I took back Video.js after 16 years and we rewrote it to be 88% smaller,https://videojs.org/blog/videojs-v10-beta-hello-world-again,221,2026-03-25 02:28:40
+47508246,Goodbye to Sora,https://twitter.com/soraofficialapp/status/2036532795984715896,398,2026-03-25 02:28:40
+47509571,"I wanted to build vertical SaaS for pest control, so I took a technician job",https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead,209,2026-03-25 02:28:40
+47511589,Flighty Airports,https://flighty.com/airports,76,2026-03-25 02:28:40
+47511703,"In Edison’s Revenge, Data Centers Are Transitioning From AC to DC",https://spectrum.ieee.org/data-center-dc,61,2026-03-25 02:28:40
 47484519,“Collaboration” is bullshit,https://www.joanwestenberg.com/collaboration-is-bullshit/,309,2026-03-24 02:23:38
 47487436,Migrating to the EU,https://rz01.org/eu-migration/,834,2026-03-24 02:23:38
 47493194,Designing AI for Disruptive Science,https://www.asimov.press/p/ai-science,64,2026-03-24 02:23:38
