@@ -1,4 +1,32 @@
 id,title,url,score,extraction_date
+47641255,Plague Ships (2020),https://www.afloat.com.au/feature/plague-ships/,44,2026-04-05 02:42:35
+47591367,Breaking Enigma with Index of Coincidence on a Commodore 64,https://imapenguin.com/2026/03/breaking-enigma-with-index-of-coincidence-on-a-commodore-64/,24,2026-04-05 02:42:34
+47601194,"The Cathedral, the Bazaar, and the Winchester Mystery House",https://www.dbreunig.com/2026/03/26/winchester-mystery-house.html,169,2026-04-05 02:42:34
+47604698,Functional programming accellerates agentic feature development,https://cyrusradfar.com/thoughts/functional-programming-is-the-only-way-to-scale-with-ai,10,2026-04-05 02:42:34
+47636435,Emotion concepts and their function in a large language model,https://www.anthropic.com/research/emotion-concepts-function,146,2026-04-05 02:42:34
+47637287,Some Unusual Trees,https://thoughts.wyounas.com/p/some-unusual-trees,256,2026-04-05 02:42:34
+47638075,"The CMS is dead, long live the CMS",https://next.jazzsequence.com/posts/the-cms-is-dead-long-live-the-cms,122,2026-04-05 02:42:34
+47641141,IBM 3270 Information Display System: Color and Programmed Symbols (1979) [pdf],https://bitsavers.org/pdf/ibm/3278/GA33-3056-0_3270_Information_Display_System_Color_and_Programmed_Symbols_3278_3279_3287_Sep1979.pdf,42,2026-04-05 02:42:34
+47642601,Show HN: M. C. Escher spiral in WebGL inspired by 3Blue1Brown,https://static.laszlokorte.de/escher/,24,2026-04-05 02:42:34
+47614532,Ruckus: Racket for iOS,https://ruckus.defn.io/,82,2026-04-05 02:42:33
+47629485,A case study in testing with 100+ Claude agents in parallel,https://imbue.com/product/mngr_part_2/,8,2026-04-05 02:42:33
+47638810,Components of a Coding Agent,https://magazine.sebastianraschka.com/p/components-of-a-coding-agent,175,2026-04-05 02:42:33
+47639291,The Indie Internet Index – submit your favorite sites,https://iii.social,106,2026-04-05 02:42:33
+47639303,"Show HN: I made open source, zero power PCB hackathon badges",https://github.com/KaiPereira/Overglade-Badges,57,2026-04-05 02:42:33
+47639567,Show HN: TurboQuant-WASM – Google's vector quantization in the browser,https://github.com/teamchong/turboquant-wasm,143,2026-04-05 02:42:33
+47639779,"Show HN: sllm – Split a GPU node with other developers, unlimited tokens",https://sllm.cloud,129,2026-04-05 02:42:33
+47640380,Apple approves driver that lets Nvidia eGPUs work with Arm Macs,https://www.theverge.com/tech/907003/apple-approves-driver-that-lets-nvidia-egpus-work-with-arm-macs,374,2026-04-05 02:42:33
+47645025,"Show HN: Contrapunk – Real-time counterpoint harmony from guitar input, in Rust",https://contrapunk.com/,13,2026-04-05 02:42:33
+47645037,Shooting down ideas is not a skill,https://scottlawsonbc.com/post/shooting-down-ideas,90,2026-04-05 02:42:33
+47645168,Isseven,https://isseven.app/,21,2026-04-05 02:42:33
+47595695,OpenScreen is an open-source alternative to Screen Studio,https://github.com/siddharthvaddem/openscreen,114,2026-04-05 02:42:32
+47637757,Embarrassingly simple self-distillation improves code generation,https://arxiv.org/abs/2604.01193,556,2026-04-05 02:42:32
+47640728,Show HN: A game where you build a GPU,https://jaso1024.com/mvidia/,525,2026-04-05 02:42:32
+47640875,"LLM Wiki – example of an ""idea file""",https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f,83,2026-04-05 02:42:32
+47642569,How many products does Microsoft have named 'Copilot'?,https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html,437,2026-04-05 02:42:32
+47644566,"Advice to Young People, the Lies I Tell Myself (2024)",https://jxnl.co/writing/2024/06/01/advice-to-young-people/,32,2026-04-05 02:42:32
+47644864,"AWS Engineer Reports PostgreSQL Perf Halved by Linux 7.0, Fix May Not Be Easy",https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop,119,2026-04-05 02:42:32
+47645432,Introduction to Computer Music [pdf],https://composerprogrammer.com/introductiontocomputermusic.pdf,20,2026-04-05 02:42:32
 47551847,The Joy of Numbered Streets,https://humantransit.org/2026/03/the-joy-of-numbered-streets-or-call-it-39th-avenue.html,5,2026-04-03 02:35:13
 47574600,"Queueing Requests Queues Your Capacity Problems, Too",https://pushtoprod.substack.com/p/queueing-requests-queues-your-capacity-problems-too,17,2026-04-03 02:35:13
 47575557,Magic the Gathering Deck Shuffler,https://mtg.jessitron.honeydemo.io/,42,2026-04-03 02:35:13
