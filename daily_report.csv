@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+47669923,Clojure on Fennel Part One: Persistent Data Structures,https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/,132,2026-04-11 02:30:01
+47691464,Vinyl Cache and Varnish Cache,https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html,31,2026-04-11 02:30:01
+47691538,What is RISC-V and why it matters to Canonical,https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical,97,2026-04-11 02:30:01
+47701769,The Bra-and-Girdle Maker That Fashioned the Impossible for NASA,https://thereader.mitpress.mit.edu/the-bra-and-girdle-maker-that-fashioned-the-impossible-for-nasa/,36,2026-04-11 02:30:01
+47703805,PGLite Evangelism,https://substack.com/home/post/p-193415720,25,2026-04-11 02:30:01
+47716809,"Intel 486 CPU announced April 10, 1989",https://dfarq.homeip.net/intel-486-cpu-announced-april-10-1989/,141,2026-04-11 02:30:01
+47719602,You can't trust macOS Privacy and Security settings,https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/,435,2026-04-11 02:30:01
+47720418,"Launch HN: Twill.ai (YC S25) – Delegate to cloud agents, get back PRs",https://twill.ai,54,2026-04-11 02:30:01
+47720827,A compelling title that is cryptic enough to get you to take action on it,https://ericwbailey.website/published/a-compelling-title-that-is-cryptic-enough-to-get-you-to-take-action-on-it/,172,2026-04-11 02:30:01
+47720918,Bild AI (YC W25) Is Hiring a Founding Product Engineer,https://www.ycombinator.com/companies/bild-ai/jobs/dDMaxVN-founding-product-engineer,1,2026-04-11 02:30:01
+47721255,Show HN: Eve – Managed OpenClaw for work,https://eve.new/login,31,2026-04-11 02:30:01
+47721955,"OpenClaw’s memory is unreliable, and you don’t know when it will break",https://blog.nishantsoni.com/p/ive-seen-a-thousand-openclaw-deploys,60,2026-04-11 02:30:01
+47721997,Show HN: FluidCAD – Parametric CAD with JavaScript,https://fluidcad.io/,109,2026-04-11 02:30:01
+47722011,Show HN: A WYSIWYG word processor in Python,https://codeberg.org/chrisecker/miniword,65,2026-04-11 02:30:01
+47722562,Nowhere is safe,https://steveblank.com/2026/04/09/nowhere-is-safe/,126,2026-04-11 02:30:01
+47685984,Investigating Split Locks on x86-64,https://chipsandcheese.com/p/investigating-split-locks-on-x86,16,2026-04-11 02:30:00
+47717847,CPU-Z and HWMonitor compromised,https://www.theregister.com/2026/04/10/cpuid_site_hijacked/,267,2026-04-11 02:30:00
+47719274,Helium is hard to replace,https://www.construction-physics.com/p/helium-is-hard-to-replace,262,2026-04-11 02:30:00
+47719740,1D Chess,https://rowan441.github.io/1dchess/chess.html,670,2026-04-11 02:30:00
+47719942,WireGuard makes new Windows release following Microsoft signing resolution,https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html,408,2026-04-11 02:30:00
+47720419,Industrial design files for Keychron keyboards and mice,https://github.com/Keychron/Keychron-Keyboards-Hardware-Design,316,2026-04-11 02:30:00
+47721946,JSON formatter Chrome plugin now closed and injecting adware,https://github.com/callumlocke/json-formatter,151,2026-04-11 02:30:00
+47721953,AI assistance when contributing to the Linux kernel,https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst,169,2026-04-11 02:30:00
+47722262,Watgo – A WebAssembly Toolkit for Go,https://eli.thegreenplace.net/2026/watgo-a-webassembly-toolkit-for-go/,79,2026-04-11 02:30:00
+47722333,"Chimpanzees in Uganda locked in eight-year 'civil war', say researchers",https://www.bbc.com/news/articles/cr71lkzv49po,247,2026-04-11 02:30:00
+47724118,Installing Every* Firefox Extension,https://jack.cab/blog/every-firefox-extension,151,2026-04-11 02:30:00
+47724352,Filing the corners off my MacBooks,https://kentwalters.com/posts/corners/,384,2026-04-11 02:30:00
+47724921,Sam Altman's response to Molotov cocktail incident,https://blog.samaltman.com/2279512,181,2026-04-11 02:30:00
+47725403,Italo Calvino: A Traveller in a World of Uncertainty,https://www.historytoday.com/archive/portrait-author-historian/italo-calvino-traveller-world-uncertainty,27,2026-04-11 02:30:00
+47725583,Artemis II safely splashes down,https://www.cbsnews.com/live-updates/artemis-ii-splashdown-return/,409,2026-04-11 02:30:00
 47695666,Show HN: Druids – Build your own software factory,https://github.com/fulcrumresearch/druids,25,2026-04-10 02:45:25
 47702647,"Launch HN: Relvy (YC F24) – On-call runbooks, automated",https://www.relvy.ai,40,2026-04-10 02:45:25
 47707632,"Instant 1.0, a backend for AI-coded apps",https://www.instantdb.com/essays/architecture,96,2026-04-10 02:45:25
