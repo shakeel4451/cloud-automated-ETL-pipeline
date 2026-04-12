@@ -1,4 +1,32 @@
 id,title,url,score,extraction_date
+47698046,Layoff Thinking,https://blogs.newardassociates.com/blog/2026/layoff-thinking.html,70,2026-04-12 02:49:11
+47675447,In Production,https://lucumr.pocoo.org/2026/4/4/absurd-in-production/,4,2026-04-12 02:49:10
+47730407,South Korea introduces universal basic mobile data access,https://www.theregister.com/2026/04/10/south_korea_data_access_universal/,336,2026-04-12 02:49:10
+47730712,The Problem That Built an Industry,https://ajitem.com/blog/iron-core-part-1-the-problem-that-built-an-industry/,110,2026-04-12 02:49:10
+47730981,"The future of everything is lies, I guess – Part 5: Annoyances",https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances,234,2026-04-12 02:49:10
+47732402,The APL programming language source code (2012),https://computerhistory.org/blog/the-apl-programming-language-source-code/,47,2026-04-12 02:49:10
+47733066,New synthesis of astronomical measurements shows Hubble tension is real,https://noirlab.edu/public/news/noirlab2611/?nocache=true&lang=en,44,2026-04-12 02:49:10
+47734912,Midnight Captain – A midnight commander inspired file manager,https://github.com/duguyue100/midnight-captain,13,2026-04-12 02:49:10
+47672187,Building Slogbox,https://alexrios.me/blog/slogbox-devlog/,7,2026-04-12 02:49:09
+47674075,What is a property?,https://alperenkeles.com/posts/what-is-a-property/,56,2026-04-12 02:49:09
+47674273,The Soul of an Old Machine,https://skalski.dev/the-soul-of-an-old-machine/,28,2026-04-12 02:49:09
+47694064,Every plane you see in the sky – you can now follow it from the cockpit in 3D,https://flight-viz.com/cockpit.html?lat=40.64&lon=-73.78&alt=3000&hdg=220&spd=130&cs=DAL123,257,2026-04-12 02:49:09
+47695213,Optimal Strategy for Connect 4,https://2swap.github.io/WeakC4/explanation/,265,2026-04-12 02:49:09
+47699470,The Life and Death of the Book Review,https://libertiesjournal.com/articles/the-life-and-death-of-the-book-review/,20,2026-04-12 02:49:09
+47731838,Keeping a Postgres Queue Healthy,https://planetscale.com/blog/keeping-a-postgres-queue-healthy,83,2026-04-12 02:49:09
+47735606,Americans still opt for print books over digital or audio versions,https://www.pewresearch.org/short-reads/2026/04/09/americans-still-opt-for-print-books-over-digital-or-audio-versions-few-are-in-book-clubs/,18,2026-04-12 02:49:09
+47672941,Pijul a FOSS distributed version control system,https://pijul.org/,88,2026-04-12 02:49:08
+47673171,How Complex is my Code?,https://philodev.one/posts/2026-04-code-complexity/,30,2026-04-12 02:49:08
+47693559,Surelock: Deadlock-Free Mutexes for Rust,https://notes.brooklynzelenka.com/Blog/Surelock,179,2026-04-12 02:49:08
+47730194,Cirrus Labs to join OpenAI,https://cirruslabs.org/,237,2026-04-12 02:49:08
+47731506,Advanced Mac Substitute is an API-level reimplementation of 1980s-era Mac OS,https://www.v68k.org/advanced-mac-substitute/,203,2026-04-12 02:49:08
+47732697,How to build a `Git diff` driver,https://www.jvt.me/posts/2026/04/11/how-git-diff-driver/,84,2026-04-12 02:49:08
+47733521,Dark Castle,https://darkcastle.co.uk/,130,2026-04-12 02:49:08
+47733561,447 TB/cm² at zero retention energy – atomic-scale memory on fluorographane,https://zenodo.org/records/19513269,145,2026-04-12 02:49:08
+47732020,Small models also found the vulnerabilities that Mythos found,https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier,866,2026-04-12 02:49:07
+47733217,How We Broke Top AI Agent Benchmarks: And What Comes Next,https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/,242,2026-04-12 02:49:07
+47733971,Apple Silicon and Virtual Machines: Beating the 2 VM Limit (2023),https://khronokernel.com/macos/2023/08/08/AS-VM.html,151,2026-04-12 02:49:07
+47735535,The End of Eleventy,https://brennan.day/the-end-of-eleventy/,24,2026-04-12 02:49:07
 47669923,Clojure on Fennel Part One: Persistent Data Structures,https://andreyor.st/posts/2026-04-07-clojure-on-fennel-part-one-persistent-data-structures/,132,2026-04-11 02:30:01
 47691464,Vinyl Cache and Varnish Cache,https://vinyl-cache.org/organization/on_vinyl_cache_and_varnish_cache.html,31,2026-04-11 02:30:01
 47691538,What is RISC-V and why it matters to Canonical,https://ubuntu.com/blog/risc-v-101-what-is-it-and-what-does-it-mean-for-canonical,97,2026-04-11 02:30:01
