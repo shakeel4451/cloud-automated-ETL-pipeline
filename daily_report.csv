@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+47715256,Tool to explore regularly sampled time series,https://github.com/rajivsam/tseda,3,2026-04-14 02:46:41
+47728192,"If you started a company two years ago, many assumptions are no longer true",https://steveblank.com/2026/03/17/your-startup-is-probably-dead-on-arrival/,147,2026-04-14 02:46:41
+47728823,What we learned building a Rust runtime for TypeScript,https://encore.dev/blog/rust-runtime,43,2026-04-14 02:46:41
+47729694,Introduction to Obsidian,https://bryanhogan.com/blog/obsidian-introduction,158,2026-04-14 02:46:41
+47752466,MEMS Array Chip Can Project Video the Size of a Grain of Sand,https://spectrum.ieee.org/mems-photonics,79,2026-04-14 02:46:41
+47755209,B-trees and database indexes (2024),https://planetscale.com/blog/btrees-and-database-indexes,88,2026-04-14 02:46:41
+47755573,New Orleans's Car-Crash Conspiracy,https://www.newyorker.com/magazine/2026/04/20/the-car-crash-conspiracy,76,2026-04-14 02:46:41
+47756036,Visualizing CPU Pipelining (2024),https://timmastny.com/blog/visualizing-cpu-pipelining/,65,2026-04-14 02:46:41
+47756876,Just Enough Chimera Linux,https://www.dwarmstrong.org/chimera-install-zfs/,45,2026-04-14 02:46:41
+47759416,Why it’s impossible to measure England’s coastline,https://www.bbc.com/travel/article/20260410-why-its-impossible-to-measure-englands-coastline,16,2026-04-14 02:46:41
+47718284,Design and implementation of DuckDB internals,https://duckdb.org/library/design-and-implementation-of-duckdb-internals/,21,2026-04-14 02:46:40
+47729046,Air Powered Segment Display? [video],https://www.youtube.com/watch?v=E1BLGpE5zH0,50,2026-04-14 02:46:40
+47729350,I just want simple S3,https://blog.feld.me/posts/2026/04/i-just-want-simple-s3/,108,2026-04-14 02:46:40
+47743728,Tracking down a 25% Regression on LLVM RISC-V,https://blog.kaving.me/blog/tracking-down-a-25-regression-on-llvm-risc-v/,100,2026-04-14 02:46:40
+47750669,Android now stops you sharing your location in photos,https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/,304,2026-04-14 02:46:40
+47752819,Make tmux pretty and usable (2024),https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/,322,2026-04-14 02:46:40
+47753689,Building a CLI for all of Cloudflare,https://blog.cloudflare.com/cf-cli-local-explorer/,262,2026-04-14 02:46:40
+47756569,"Show HN: Ithihāsas – a character explorer for Hindu epics, built in a few hours",https://www.ithihasas.in,114,2026-04-14 02:46:40
+47756772,GAIA – Open-source framework for building AI agents that run on local hardware,https://amd-gaia.ai/docs,102,2026-04-14 02:46:40
+47758347,N-Day-Bench – Can LLMs find real vulnerabilities in real codebases?,https://ndaybench.winfunc.com,37,2026-04-14 02:46:40
+47759292,The AI revolution in math has arrived,https://www.quantamagazine.org/the-ai-revolution-in-math-has-arrived-20260413/,20,2026-04-14 02:46:40
+47728970,"Write less code, be more responsible",https://blog.orhun.dev/code-responsibly/,37,2026-04-14 02:46:39
+47750872,Servo is now available on crates.io,https://servo.org/blog/2026/04/13/servo-0.1.0-release/,429,2026-04-14 02:46:39
+47751781,US appeals court declares 158-year-old home distilling ban unconstitutional,https://nypost.com/2026/04/11/us-news/us-appeals-court-declares-158-year-old-home-distilling-ban-unconstitutional/,310,2026-04-14 02:46:39
+47753472,Nothing Ever Happens: Polymarket bot that always buys No on non-sports markets,https://github.com/sterlingcrispin/nothing-ever-happens,364,2026-04-14 02:46:39
+47755629,Someone bought 30 WordPress plugins and planted a backdoor in all of them,https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/,718,2026-04-14 02:46:39
+47756321,How to make Firefox builds 17% faster,https://blog.farre.se/posts/2026/04/10/caching-webidl-codegen/,141,2026-04-14 02:46:39
+47757495,GitHub Stacked PRs,https://github.github.com/gh-stack/,455,2026-04-14 02:46:39
+47759341,WiiFin – Jellyfin Client for Nintendo Wii,https://github.com/fabienmillet/WiiFin,65,2026-04-14 02:46:39
+47759709,Lean proved this program correct; then I found a bug,https://kirancodes.me/posts/log-who-watches-the-watchers.html,103,2026-04-14 02:46:39
 47706560,A Tour of Oodi,https://blinry.org/oodi/,115,2026-04-13 02:53:42
 47737376,Phyphox – Physical Experiments Using a Smartphone,https://phyphox.org/,193,2026-04-13 02:53:42
 47741531,"Bouncer: Block ""crypto"", ""rage politics"", and more from your X feed using AI",https://github.com/imbue-ai/bouncer,41,2026-04-13 02:53:42
