@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+47812649,Bodega cats of New York,https://bodegacatsofnewyork.com,165,2026-04-23 02:49:34
+47861270,Windows 9x Subsystem for Linux,https://social.hails.org/@hailey/116446826733136456,900,2026-04-23 02:49:34
+47866860,Workspace Agents in ChatGPT,https://openai.com/index/introducing-workspace-agents-in-chatgpt/,110,2026-04-23 02:49:34
+47868063,New study compares growing corn for energy to solar production,https://www.anthropocenemagazine.org/2025/04/new-study-compares-growing-corn-for-energy-to-solar-production-its-no-contest/,71,2026-04-23 02:49:34
+47836035,Effectful Recursion Schemes,https://effekt-lang.org/blog/recursion-schemes/,17,2026-04-23 02:49:33
+47840252,Verus is a tool for verifying the correctness of code written in Rust,https://verus-lang.github.io/verus/guide/,14,2026-04-23 02:49:33
+47840618,What killed the Florida orange?,https://slate.com/business/2026/04/florida-state-orange-food-houses-real-estate.html,121,2026-04-23 02:49:33
+47854365,Another Day Has Come,https://daringfireball.net/2026/04/another_day_has_come,196,2026-04-23 02:49:33
+47862331,GitHub CLI now collects pseudoanonymous telemetry,https://cli.github.com/telemetry,418,2026-04-23 02:49:33
+47862386,3.4M Solar Panels,https://tech.marksblogg.com/american-solar-farms-v2.html,294,2026-04-23 02:49:33
+47862497,Our eighth generation TPUs: two chips for the agentic era,https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/,409,2026-04-23 02:49:33
+47863324,Ultraviolet corona discharges on treetops during storms,https://www.psu.edu/news/earth-and-mineral-sciences/story/treetops-glowing-during-storms-captured-film-first-time,205,2026-04-23 02:49:33
+47864393,Scoring Show HN submissions for AI design patterns,https://www.adriankrebs.ch/blog/design-slop/,278,2026-04-23 02:49:33
+47864785,Ping-pong robot beats top-level human players,https://www.reuters.com/sports/ping-pong-robot-ace-makes-history-by-beating-top-level-human-players-2026-04-22/,78,2026-04-23 02:49:33
+47865661,"Technical, cognitive, and intent debt",https://martinfowler.com/fragments/2026-04-02.html,208,2026-04-23 02:49:33
+47866750,Parallel agents in Zed,https://zed.dev/blog/parallel-agents,175,2026-04-23 02:49:33
+47868832,The Illuminated Man: an unconventional portrait of JG Ballard,https://www.theguardian.com/books/2026/apr/20/the-illuminated-man-by-christopher-priest-and-nina-allan-review-an-unconventional-portrait-of-jg-ballard,49,2026-04-23 02:49:33
+47869496,The Neon King of New Orleans,https://gardenandgun.com/new-orleans-neon-king,37,2026-04-23 02:49:33
+47870108,Bring your own Agent to MS Teams,https://microsoft.github.io/teams-sdk/blog/bring-your-agent-to-teams/,22,2026-04-23 02:49:33
+47870709,Approximating Hyperbolic Tangent,https://jtomschroeder.com/blog/approximating-tanh/,26,2026-04-23 02:49:33
+47824943,5x5 Pixel font for tiny screens,https://maurycyz.com/projects/mcufont/,454,2026-04-23 02:49:32
+47863217,Qwen3.6-27B: Flagship-Level Coding in a 27B Dense Model,https://qwen.ai/blog?id=qwen3.6-27b,725,2026-04-23 02:49:32
+47864011,The handmade beauty of Machine Age data visualizations,https://resobscura.substack.com/p/the-handmade-beauty-of-machine-age,12,2026-04-23 02:49:32
+47865868,Alberta startup sells no-tech tractors for half price,https://wheelfront.com/this-alberta-startup-sells-no-tech-tractors-for-half-price/,1387,2026-04-23 02:49:32
+47866697,We found a stable Firefox identifier linking all your private Tor identities,https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/,464,2026-04-23 02:49:32
+47866913,Over-editing refers to a model modifying code beyond what is necessary,https://nrehiew.github.io/blog/minimal_editing/,305,2026-04-23 02:49:32
+47867048,Website streamed live directly from a model,https://flipbook.page/,172,2026-04-23 02:49:32
+47868867,Apple fixes bug that cops used to extract deleted chat messages from iPhones,https://techcrunch.com/2026/04/22/apple-fixes-bug-that-cops-used-to-extract-deleted-chat-messages-from-iphones/,394,2026-04-23 02:49:32
+47871077,OpenAI's response to the Axios developer tool compromise,https://openai.com/index/axios-developer-tool-compromise/,18,2026-04-23 02:49:32
+47871195,Tempest vs. Tempest: The Making and Remaking of Atari's Iconic Video Game,https://tempest.homemade.systems,23,2026-04-23 02:49:32
 47822301,Show HN: Backlit Keyboard API for Python,https://github.com/itsmeadarsh2008/backlit-kbd,21,2026-04-22 02:46:43
 47846946,"A type-safe, realtime collaborative Graph Database in a CRDT",https://codemix.com/graph,153,2026-04-22 02:46:43
 47815462,Running a Minecraft Server and More on a 1960s Univac Computer,https://farlow.dev/2026/04/17/running-a-minecraft-server-and-more-on-a-1960s-univac-computer,200,2026-04-22 02:46:42
