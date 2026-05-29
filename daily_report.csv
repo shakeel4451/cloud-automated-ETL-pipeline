@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48272458,Some Like It Literary,https://www.nytimes.com/2026/05/24/books/review/marilyn-monroe-books-arthur-miller.html,17,2026-05-29 03:52:04
+48282180,Indoor Wi-Fi Roaming with OpenWRT,https://taoofmac.com/space/blog/2026/05/26/1730,218,2026-05-29 03:52:04
+48309986,Show HN: Ktx – Open-source executable context layer for data agents,https://github.com/Kaelio/ktx,58,2026-05-29 03:52:04
+48311490,Endive: A JVM native WebAssembly runtime,https://github.com/bytecodealliance/endive,68,2026-05-29 03:52:04
+48312616,"Bitburner, programming-based incremental game",https://bitburner-official.github.io/,84,2026-05-29 03:52:04
+48313048,Anthropic raises $65B in Series H funding at $965B post-money valuation,https://www.anthropic.com/news/series-h,284,2026-05-29 03:52:04
+48313810,Various LLM Smells,https://shvbsle.in/various-llm-smells/,251,2026-05-29 03:52:04
+48265849,The Pack That Killed the Pack Mule,https://www.carryology.com/liking/industry/the-pack-that-killed-the-pack-mule/,10,2026-05-29 03:52:03
+48266757,The most unlikely school bag,https://www.carryology.com/insights/carry-culture/the-tale-of-the-worlds-most-unlikely-school-bag/,102,2026-05-29 03:52:03
+48310280,The Permanent Upper Crow,https://permanent-upper-crow.jasonwu.ink/,156,2026-05-29 03:52:03
+48315980,Why Gentoo?,https://blogs.gentoo.org/mgorny/2026/05/28/why-gentoo/,33,2026-05-29 03:52:03
+48317294,The mysterious Hy3 LLM is topping OpenRouter Model Rankings by a large margin,https://minimaxir.com/2026/05/openrouter-hy3/,18,2026-05-29 03:52:03
+48317339,Where are the economies of scale in homebuilding?,https://www.construction-physics.com/p/where-are-the-economies-of-scale,57,2026-05-29 03:52:03
+48266950,How a Startup Is Collapsing a 200-Year-Old Supply Chain,https://www.carryology.com/insights/how-a-startup-is-collapsing-a-200-year-old-supply-chain/,4,2026-05-29 03:52:02
+48280451,"Coalton is an efficient, statically typed Lisp with ideas from Haskell and OCaml",https://coalton-lang.github.io/,112,2026-05-29 03:52:02
+48308376,Show HN: Continue? Y/N: A 60-second game about AI agent permission fatigue,https://llmgame.scalex.dev,263,2026-05-29 03:52:02
+48312528,I hated writing until I learned there’s a science to it (2024),https://www.science.org/content/article/i-hated-writing-until-i-learned-there-s-science-it,168,2026-05-29 03:52:02
+48313530,Building durable workflows on Postgres,https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution,287,2026-05-29 03:52:02
+48315968,GitHub bans security researcher who posted zero-day Windows exploits,https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation,229,2026-05-29 03:52:02
+48317093,"SF startup is testing robots in Airbnbs, and trashing them, lawsuit claims",https://sfstandard.com/2026/05/28/sf-startup-secretly-testing-robots-airbnbs-trashing-lawsuit-claims/,126,2026-05-29 03:52:02
+48261377,Ten Basic Clouds,https://www.noaa.gov/jetstream/clouds/ten-basic-clouds,60,2026-05-29 03:52:01
+48276598,News about Raspberry Pi 6 and Microcontroller Development,https://www.jeffgeerling.com/blog/2026/news-about-raspberry-pi-6-and-microcontroller-development/,169,2026-05-29 03:52:01
+48314002,Nitpicking the shell history scene in 'Tron: Legacy',https://www.chiark.greenend.org.uk/~sgtatham/quasiblog/tron-legacy/,184,2026-05-29 03:52:01
+48314951,I made a million dollar product from my dorm room (2025),https://nick.winans.io/blog/nice-nano/,241,2026-05-29 03:52:01
+48317043,Garnix (A Nix CI) is shutting down,https://discourse.nixos.org/t/garnix-is-shutting-down-not-oc/77895,38,2026-05-29 03:52:01
+48317774,Blue Origin's New Glenn blows up during static fire test,https://twitter.com/nasaspaceflight/status/2060164928472854821,129,2026-05-29 03:52:01
+48318678,The most spectacular rocket explosion since N1 just happened in Florida,https://arstechnica.com/space/2026/05/blue-origins-new-glenn-rocket-just-exploded-during-a-static-fire-test/,8,2026-05-29 03:52:01
+48311647,Claude Opus 4.8,https://www.anthropic.com/news/claude-opus-4-8,1306,2026-05-29 03:52:00
+48314136,Bricks and Minifigs Stole a Man's $200k Lego Collection,https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection,702,2026-05-29 03:52:00
+48318481,"Cars are trying to spy on you, and it's only just the beginning",https://www.bbc.com/future/article/20260513-your-car-is-spying-on-you-its-about-to-get-worse,62,2026-05-29 03:52:00
 48254336,Human Bottlenecks,https://borretti.me/article/human-bottlenecks,92,2026-05-28 03:50:30
 48247005,Matrix Multiplications on GPUs Run Faster When Given “Predictable” Data (2024),https://www.thonking.ai/p/strangely-matrix-multiplications,159,2026-05-28 03:50:29
 48291225,All of human cooking compressed into 2 megabytes,https://arxiv.org/abs/2605.22391,377,2026-05-28 03:50:29
