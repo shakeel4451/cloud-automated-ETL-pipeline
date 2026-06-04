@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+48360929,When does fragmentation occur in the CUDA caching allocator?,https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/,5,2026-06-04 04:15:11
+48382052,Mathematicians issue warning as AI rapidly gains ground,https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground,193,2026-06-04 04:15:11
+48382142,PlayStation Architecture,https://www.copetti.org/writings/consoles/playstation/,272,2026-06-04 04:15:11
+48386588,Skyvern (YC S23) Is Hiring Open-Source Loving DevRel Engineers,https://www.ycombinator.com/companies/skyvern/jobs/1qRTlVx-founding-developer-marketing-open-source-ai,1,2026-06-04 04:15:11
+48387251,"Embryos shape their limbs: a key discovery of ""genetic brakes""",https://nouvelles.umontreal.ca/en/article/2026/06/02/how-embryos-shape-their-limbs-a-key-discovery-of-genetic-brakes,59,2026-06-04 04:15:11
+48388909,"Self-hosted dev sandboxes with preview URLs (Docker, Go, no K8s)",https://github.com/tastyeffectco/sandboxes,61,2026-06-04 04:15:11
+48390400,A Mathematician's Lament – Paul Lockhart (2002) [pdf],https://worrydream.com/refs/Lockhart_2002_-_A_Mathematician%27s_Lament.pdf,47,2026-06-04 04:15:11
+48390688,Journey to JPEG XL: open-source experiments shaped the future of image coding,https://opensource.googleblog.com/2026/06/journey-to-jpeg-xl-how-open-source-experiments-shaped-the-future-of-image-coding.html,48,2026-06-04 04:15:11
+48391838,The Ü Programming Language,https://github.com/Panzerschrek/U-00DC-Sprache/,39,2026-06-04 04:15:11
+48348040,CP/M-86 & MS-DOS Cross Development Environment,https://github.com/tsupplis/cpm86-crossdev,10,2026-06-04 04:15:10
+48349404,Patching my guitar amp's firmware,https://mforney.org/blog/2026-05-28-patching-my-guitar-amps-firmware.html,54,2026-06-04 04:15:10
+48362255,Meteor Explodes over Massachusetts,https://www.nbcboston.com/news/local/meteor-explodes-over-massachusetts-what-we-know-and-where-it-landed/3957663/,70,2026-06-04 04:15:10
+48383056,"Uber's $1,500/month AI limit is a useful signal for AI tool pricing",https://simonwillison.net/2026/Jun/3/uber-caps-usage/,404,2026-06-04 04:15:10
+48384482,DaVinci Resolve 21,https://www.blackmagicdesign.com/products/davinciresolve/whatsnew,415,2026-06-04 04:15:10
+48385114,A Post-Quantum Future for Let's Encrypt,https://letsencrypt.org/2026/06/03/pq-certs,231,2026-06-04 04:15:10
+48385965,ESP32-S31,https://www.espressif.com/en/products/socs/esp32-s31,269,2026-06-04 04:15:10
+48386725,Gooey: A GPU-accelerated UI framework for Zig,https://github.com/duanebester/gooey,146,2026-06-04 04:15:10
+48389681,Ableton Extensions SDK,https://www.ableton.com/en/live/extensions/,83,2026-06-04 04:15:10
+48391957,DNS Is for People – Not for IT Infrastructure,https://louwrentius.com/dns-is-for-people-not-for-it-infrastructure.html,17,2026-06-04 04:15:10
+48384355,I was recently diagnosed with anti-NMDA receptor encephalitis,https://burntsushi.net/encephalitis/,532,2026-06-04 04:15:09
+48385906,"Gemma 4 12B: A unified, encoder-free multimodal model",https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/,744,2026-06-04 04:15:09
+48387270,Artificial intelligence is not conscious – Ted Chiang,https://www.theatlantic.com/philosophy/2026/06/no-artificial-intelligence-is-not-conscious/687378/,301,2026-06-04 04:15:09
+48388324,Elixir v1.20: Now a gradually typed language,https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/,621,2026-06-04 04:15:09
+48391611,"""They're made out of weights""",https://maxleiter.com/blog/weights,124,2026-06-04 04:15:09
+48392004,"Failing grades soar with AI usage, dwindling math skills in Berkeley CS classes",https://www.dailycal.org/news/campus/academics/failing-grades-soar-as-professors-see-greater-ai-usage-dwindling-math-skills-in-uc-berkeley/article_16fad0bf-02cb-4b8c-8d88-888ffd9f8608.html,57,2026-06-04 04:15:09
+48392082,The ways we contain Claude across products,https://www.anthropic.com/engineering/how-we-contain-claude,67,2026-06-04 04:15:09
+48392232,U.S. to Dismantle System Tracking Atlantic Currents That Are at Risk of Collapse,https://e360.yale.edu/digest/trump-ooi-amoc,261,2026-06-04 04:15:09
+48392343,"I built a vulnerable app and spent $1,500 seeing if LLMs could hack it",https://kasra.blog/blog/i-spent-1500-seeing-if-llms-could-hack-my-app/,93,2026-06-04 04:15:09
+48393043,American capitalism has taken an apocalyptic turn,https://economist.com/business/2026/06/03/american-capitalism-has-taken-an-apocalyptic-turn,67,2026-06-04 04:15:09
 48369863,Expanding Project Glasswing,https://www.anthropic.com/news/expanding-project-glasswing,163,2026-06-03 04:20:45
 48370588,Preparing for KDE Plasma's Last X11-Supported Release,https://blog.davidedmundson.co.uk/blog/596/,161,2026-06-03 04:20:45
 48336783,OpenFOV – Webcam head tracking for iRacing,https://www.openfov.com/,98,2026-06-03 04:20:44
