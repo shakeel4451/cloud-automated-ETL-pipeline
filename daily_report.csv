@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48360414,Making Debian or Fedora persistent live images,https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html,67,2026-06-05 03:58:57
+48396004,Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites,https://uruky.com/?il=en,217,2026-06-05 03:58:57
+48401433,Zettascale (YC S24) Is Hiring Founding FPGA Engineers,https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect,1,2026-06-05 03:58:57
+48403753,Castor: CERN Advanced STORage Manager,https://castor.web.cern.ch/content/home.html,45,2026-06-05 03:58:57
+48404732,Show HN: Mercek – A Desktop IDE for AWS ECS,https://www.mercek.dev/,34,2026-06-05 03:58:57
+48405019,IPv6 zones in URLs are a mistake,https://xeiaso.net/notes/2026/ipv6-zones-go-url/,103,2026-06-05 03:58:57
+48405841,Latent Agents: A Post-Training Procedure for Internalized Multi-Agent Debate,https://arxiv.org/abs/2604.24881,18,2026-06-05 03:58:57
+48407068,What happens if Japan takes in zero immigrants?,https://www.konichivalue.com/p/what-happens-if-japan-takes-in-zero,4,2026-06-05 03:58:57
+48354136,Go Experiments Explained,https://www.alexedwards.net/blog/go-experiments-explained,3,2026-06-05 03:58:56
+48366090,Samurai City,https://worksinprogress.co/issue/samurai-city/,122,2026-06-05 03:58:56
+48373266,I made a kernel 2.2x faster. It made my training loop 3x slower,https://kyrieblunders.bearblog.dev/making-dr-grpo-go-brrr/,8,2026-06-05 03:58:56
+48375064,JLink JTAG Access on the Pinecil,https://danielmangum.com/posts/jlink-jtag-pinecil/,45,2026-06-05 03:58:56
+48399974,KVarN: Native vLLM backend for KV-cache quantization by Huawei,https://github.com/huawei-csl/KVarN,120,2026-06-05 03:58:56
+48400588,Retro-Tech Parenting,https://havenweb.org/2026/05/28/retro-tech.html,268,2026-06-05 03:58:56
+48404905,Queen bees emerge from special wax chambers,https://cen.acs.org/materials/biobased-materials/queen-bees-special-wax/104/web/2026/06,55,2026-06-05 03:58:56
+48405718,"SpaceX, Other Mega IPOs Denied Fast Index Entry by S&P",https://www.bloomberg.com/news/articles/2026-06-04/s-p-dow-jones-keeps-megacap-ipo-rules-as-is-after-consultation,198,2026-06-05 03:58:56
+48407401,CEO to staff: You're not getting a raise. We're spending on AI instead,https://www.businessinsider.com/teradata-pauses-raises-employee-compensation-ai-budget-2026-6,21,2026-06-05 03:58:56
+48407451,The Causes of Long Covid,https://www.science.org/content/blog-post/causes-long-covid,17,2026-06-05 03:58:56
+48368338,"Reverse-Engineered Userspace Driver for Asus ZenVision Lid OLED on Linux""",https://github.com/tarpediem/zenvision-linux,33,2026-06-05 03:58:55
+48375445,Branchless Quicksort faster than std:sort and pdqsort with C and C++ API,https://tiki.li/blog/blqsort,114,2026-06-05 03:58:55
+48376008,I'm skeptical about efforts to revolutionize schooling,https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/,93,2026-06-05 03:58:55
+48397028,Ian's Secure Shoelace Knot,https://www.fieggen.com/shoelace/secureknot.htm,531,2026-06-05 03:58:55
+48398055,VoidZero Is Joining Cloudflare,https://blog.cloudflare.com/voidzero-joins-cloudflare/,590,2026-06-05 03:58:55
+48400842,When AI Builds Itself: Our progress toward recursive self-improvement,https://www.anthropic.com/institute/recursive-self-improvement,375,2026-06-05 03:58:55
+48403980,Anthropic's open-source framework for AI-powered vulnerability discovery,https://github.com/anthropics/defending-code-reference-harness,315,2026-06-05 03:58:55
+48405931,Do transformers need three projections? Systematic study of QKV variants,https://arxiv.org/abs/2606.04032,121,2026-06-05 03:58:55
+48406198,South Korean Forums Will Need to Scan Every Images with AI Censorship Tools,https://discuss.privacyguides.net/t/south-korean-online-communities-will-need-to-scan-every-images-with-ai-censorship-tools/38341,41,2026-06-05 03:58:55
+48406358,Open Code Review – An AI-powered code review CLI tool,https://github.com/alibaba/open-code-review,81,2026-06-05 03:58:55
+48406640,Meta enables ADB on deprecated Portal devices [video],https://fb.watch/HxPu0fSyeH/,116,2026-06-05 03:58:55
+48407499,Azure Linux 4.0 is Microsoft's first general-purpose Linux,https://www.boxofcables.dev/azure-linux-4-0-is-microsofts-first-general-purpose-linux/,8,2026-06-05 03:58:55
 48360929,When does fragmentation occur in the CUDA caching allocator?,https://docs.pytorch.org/devlogs/eager/2026-06-01-cuda-caching-allocator/,5,2026-06-04 04:15:11
 48382052,Mathematicians issue warning as AI rapidly gains ground,https://www.science.org/content/article/mathematicians-issue-warning-ai-rapidly-gains-ground,193,2026-06-04 04:15:11
 48382142,PlayStation Architecture,https://www.copetti.org/writings/consoles/playstation/,272,2026-06-04 04:15:11
