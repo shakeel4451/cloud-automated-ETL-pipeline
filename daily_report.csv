@@ -1,4 +1,31 @@
 id,title,url,score,extraction_date
+48398689,Inside FAISS: Billion-Scale Similarity Search,https://fremaconsulting.ch/blog/faiss,53,2026-06-06 03:41:00
+48402744,"""Maybe later"" was a feature",https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/,82,2026-06-06 03:41:00
+48408016,C++: The Documentary,https://herbsutter.com/2026/06/04/c-the-documentary-released-today/,385,2026-06-06 03:41:00
+48409664,Tracing a powerful GNSS interference source over Europe,https://arxiv.org/abs/2606.03673,368,2026-06-06 03:41:00
+48416392,Aging and Eye Problems,https://ldstephens.net/posts/aging-and-eye-problems/,65,2026-06-06 03:41:00
+48419571,The perils of UUID primary keys in SQLite,https://andersmurphy.com/2026/06/05/the-perils-of-uuid-primary-keys-in-sqlite.html,29,2026-06-06 03:41:00
+48380174,Cooldown Support for Ruby Bundler,https://blog.rubygems.org/2026/06/03/cooldown-let-new-gems-be-vetted.html,148,2026-06-06 03:40:59
+48405264,"Show HN: Formally verified polygon intersection – Opus 4.8 oneshots, prev failed",https://github.com/schildep/verified-polygon-intersection,63,2026-06-06 03:40:59
+48411799,The Quiet Numbers Station: Decoding Nineteen Years of GPS Cryptography,https://www.benthamsgaze.org/2026/06/02/the-quiet-numbers-station-decoding-nineteen-years-of-gps-cryptography/,74,2026-06-06 03:40:59
+48413072,I tested every IP KVM in my Homelab,https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/,254,2026-06-06 03:40:59
+48413254,India's surprise baby bust,https://www.economist.com/leaders/2026/06/04/indias-surprise-baby-bust-is-a-warning-to-the-world,145,2026-06-06 03:40:59
+48414027,Conventional Commits encourages focus on the wrong things,https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/,277,2026-06-06 03:40:59
+48416635,Transformers are inherently succinct,https://openreview.net/pdf?id=Yxz92UuPLQ,99,2026-06-06 03:40:59
+48416845,Three of our worst VC stories,https://twitter.com/eastdakota/status/2062860530360959273,197,2026-06-06 03:40:59
+48383667,Mouseless – keyboard-driven control of macOS/Linux/Windows,https://mouseless.click,480,2026-06-06 03:40:58
+48398233,Europe's largest Copper Age tomb: children's bones show ancient health crisis,https://phys.org/news/2026-05-europe-largest-copper-age-tomb.html,20,2026-06-06 03:40:58
+48398925,My Agent Skill for Test-Driven Development,https://www.saturnci.com/my-agent-skill-for-test-driven-development.html,147,2026-06-06 03:40:58
+48411635,Did Claude increase bugs in rsync?,https://alexispurslane.github.io/rsync-analysis/,337,2026-06-06 03:40:58
+48413500,"New method turns ocean water into drinking water, without waste",https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/,291,2026-06-06 03:40:58
+48414653,Gemma 4 QAT models: Optimizing compression for mobile and laptop efficiency,https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/,294,2026-06-06 03:40:58
+48415217,Gov.uk has replaced Stripe with Dutch provider Adyen,https://www.theregister.com/public-sector/2026/06/04/govuk-goes-dutch-on-payments-as-it-dumps-stripe/5250763,375,2026-06-06 03:40:58
+48419821,Nordstjernen Web Browser 1.0.0 released,https://github.com/nordstjernen-web/nordstjernen/releases/tag/1.0.0,20,2026-06-06 03:40:58
+48420494,Show HN: ABC Classic 100 Rankings visualised,https://classic100.gotski.workers.dev/,18,2026-06-06 03:40:58
+48389360,How LLMs Work,https://www.0xkato.xyz/how-llms-actually-work/,38,2026-06-06 03:40:57
+48413464,Astronauts told to return to ISS after sheltering over air leak repairs,https://www.bbc.com/news/live/c4g44ew3g1kt,365,2026-06-06 03:40:57
+48414367,pg_durable: Microsoft open sources in-database durable execution,https://github.com/microsoft/pg_durable,351,2026-06-06 03:40:57
+48420148,The intracies of modern camera lens repair (2024),https://salvagedcircuitry.com/sigma-45mm.html,89,2026-06-06 03:40:57
 48360414,Making Debian or Fedora persistent live images,https://sigwait.org/~alex/blog/2026/05/28/smdBC8.html,67,2026-06-05 03:58:57
 48396004,Show HN: Uruky (EU-based Kagi alternative) now has Image Search and URL Rewrites,https://uruky.com/?il=en,217,2026-06-05 03:58:57
 48401433,Zettascale (YC S24) Is Hiring Founding FPGA Engineers,https://www.ycombinator.com/companies/zettascale/jobs/O9S1vqO-founding-engineer-fpga-rtl-asic-architect,1,2026-06-05 03:58:57
