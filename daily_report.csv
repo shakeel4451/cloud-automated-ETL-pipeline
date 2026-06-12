@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48489917,Open Reproduction of DeepSeek-R1,https://github.com/huggingface/open-r1,209,2026-06-12 04:11:23
+48492177,MTG Bench: Testing how well LLMs can play Magic,https://mtgautodeck.com/articles/mtg-bench/,34,2026-06-12 04:11:23
+48493564,Apple didn't revolutionize power supplies; new transistors did (2012),https://www.righto.com/2012/02/apple-didnt-revolutionize-power.html,101,2026-06-12 04:11:23
+48498421,Removing 'um' from a recording is harder than it sounds,https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/,28,2026-06-12 04:11:23
+48452001,Developer gets Half-Life running at 30 FPS on a Nokia N95,https://www.tomshardware.com/video-games/handheld-gaming/developer-gets-half-life-running-at-30-fps-on-a-2007-nokia-n95,233,2026-06-12 04:11:22
+48459999,Faking keyword arguments to functions in C++,https://nibblestew.blogspot.com/2026/06/faking-keyword-arguments-to-functions.html,17,2026-06-12 04:11:22
+48479314,"Reading for pleasure is sharply down among schoolkids, report shows",https://www.nbcnews.com/data-graphics/kids-reading-less-lower-levels-department-education-study-rcna348987,106,2026-06-12 04:11:22
+48487829,Making a vintage LLM from scratch,https://crlf.link/log/entries/260525-1/,32,2026-06-12 04:11:22
+48490939,How a new DSL may survive in the era of LLMs,https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms,23,2026-06-12 04:11:22
+48491486,FPS.cob: A first person shooter in COBOL,https://github.com/icitry/FPS.cob,110,2026-06-12 04:11:22
+48492210,Claude Fable 5: mid-tier results on coding tasks,https://www.endorlabs.com/learn/claude-fable-5-mythos-grade-hype,259,2026-06-12 04:11:22
+48492304,Waymo Premier,https://waymo.com/blog/2026/06/waymo-premier/,168,2026-06-12 04:11:22
+48493218,WikiLambda the Ultimate,https://en.wikipedia.org/wiki/Wikipedia:Wikipedia_Signpost/2026-05-22/Recent_research,7,2026-06-12 04:11:22
+48496250,Show HN: Boo – Screen-style terminal multiplexer built on libghostty,https://github.com/coder/boo,60,2026-06-12 04:11:22
+48447598,Ear Training Practice,https://tonedear.com/,182,2026-06-12 04:11:21
+48462070,macOS 27 Beta breaks the ability to boot Asahi Linux,https://www.phoronix.com/news/macOS-27-Beta-Breaks-Asahi,262,2026-06-12 04:11:21
+48474274,Emacs appearances in pop culture,https://ianyepan.github.io/posts/emacs-in-pop-culture/,280,2026-06-12 04:11:21
+48487229,A greyscale iPhone setup that works in everyday life,https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life,74,2026-06-12 04:11:21
+48489229,Anthropic apologizes for invisible Claude Fable guardrails,https://www.theverge.com/ai-artificial-intelligence/948280/anthropic-claude-fable-invisible-distillation-guardrail,344,2026-06-12 04:11:21
+48489402,Lines of code got a better publicist,https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/,373,2026-06-12 04:11:21
+48491830,Petition to Withdraw Canada's Bill C-22,https://www.ourcommons.ca/petitions/en/Petition/Sign/e-7416,388,2026-06-12 04:11:21
+48492215,The RCE that AMD wouldn't fix,https://mrbruh.com/amd2/,242,2026-06-12 04:11:21
+48492533,Software is made between commits,https://zed.dev/blog/introducing-deltadb,224,2026-06-12 04:11:21
+48497576,A jacket that harvests drinking water from the air,https://news.utexas.edu/2026/06/11/this-jacket-pulls-drinking-water-from-thin-air/,63,2026-06-12 04:11:21
+48490024,Show HN: Homebrew 6.0.0,https://brew.sh/2026/06/11/homebrew-6.0.0/,1052,2026-06-12 04:11:20
+48490826,MiMo Code is now released and open-source,https://mimo.xiaomi.com/mimocode,441,2026-06-12 04:11:20
+48496539,"Show HN: FablePool – pool money behind a prompt, and Fable builds it in public",https://fablepool.com,298,2026-06-12 04:11:20
+48497609,"If you are asking for human attention, demonstrate human effort",https://tombedor.dev/human-attention-and-human-effort/,372,2026-06-12 04:11:20
+48498385,Nobody ever gets credit for fixing problems that never happened (2001) [pdf],https://web.mit.edu/nelsonr/www/Repenning=Sterman_CMR_su01_.pdf,196,2026-06-12 04:11:20
+48498573,Claude Fable is relentlessly proactive,https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/,195,2026-06-12 04:11:20
 48470578,Smudging the game disc to make speedrunning 'SpongeBob' faster,https://www.inverse.com/input/gaming/the-dirty-secret-that-makes-speedrunning-on-spongebob-a-lot-faster,81,2026-06-11 04:09:52
 48485160,Are insecure code completions in PyCharm a vulnerability?,https://sethmlarson.dev/are-insecure-code-completions-a-vulnerability,5,2026-06-11 04:09:52
 48446532,World Capitals Voronoi,https://www.jasondavies.com/maps/voronoi/capitals/,47,2026-06-11 04:09:51
