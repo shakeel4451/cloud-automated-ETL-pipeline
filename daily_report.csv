@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+48595882,Show HN: Write SaaS apps where users control where their data is stored,https://github.com/wolfoo2931/linkedrecords/,3,2026-06-25 03:46:49
+48606222,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,https://labs.iximiuz.com/tutorials/ssh-tunnels,292,2026-06-25 03:46:49
+48646659,Krea 2: SOTA open-weights 12B image model,https://www.krea.ai/blog/krea-2-technical-report,354,2026-06-25 03:46:49
+48627471,Optimizing [sqlx:test] rebuild time,https://kobzol.github.io/rust/2026/06/21/optimizing-sqlx-test-rebuild-time.html,3,2026-06-25 03:46:48
+48660267,Show HN: Nub – A Bun-like all-in-one toolkit for Node.js,https://github.com/nubjs/nub,215,2026-06-25 03:46:48
+48661825,There are a few things that I look back on as my mistakes in the early days,https://twitter.com/ID_AA_Carmack/status/2069799283369345247,503,2026-06-25 03:46:48
+48666100,Elastic lays off 7% of employees,https://www.elastic.co/blog/ceo-ash-kulkarni-announcement-to-elastic-employees,157,2026-06-25 03:46:48
+48667853,Writers and Drugs,https://lithub.com/are-writers-intrinsically-vulnerable-to-alcohol-and-drugs/,8,2026-06-25 03:46:48
+48668020,Zombie unicorns are haunting Silicon Valley,https://www.economist.com/business/2026/06/21/zombie-unicorns-are-haunting-silicon-valley,5,2026-06-25 03:46:48
+48619159,Crawling BitTorrent DHTs for Fun and Profit [pdf],https://www.usenix.org/legacy/event/woot10/tech/full_papers/Wolchok.pdf,74,2026-06-25 03:46:47
+48639840,GLM-5.2 is a step change for open agents,https://www.interconnects.ai/p/glm-52-is-the-step-change-for-open,146,2026-06-25 03:46:47
+48640705,15 sorting algorithms in 6 minutes (2013) [video],https://www.youtube.com/watch?v=kPRA0W1kECg,8,2026-06-25 03:46:47
+48662381,The Xteink X4 E-Ink Reader,https://blog.omgmog.net/post/xteink-x4-e-ink-reader/,189,2026-06-25 03:46:47
+48667409,What I'm Finding About LLM Code Style and Token Costs,https://www.jimmont.com/llm-style-token-costs,16,2026-06-25 03:46:47
+48667761,Exploring the internal representations of Pangram 3.3.2,https://www.pangram.com/pangram-space,14,2026-06-25 03:46:47
+48667807,Bible as RAG Database,https://www.crosscanon.com/,57,2026-06-25 03:46:47
+48659798,Qualcomm to Acquire Modular,https://www.reuters.com/business/qualcomm-buy-ai-startup-modular-2026-06-24/,163,2026-06-25 03:46:46
+48660178,45°C cooling design cuts data center water use to near zero,https://blogs.nvidia.com/blog/liquid-cooling-ai-factories/,232,2026-06-25 03:46:46
+48660579,PR spam today looks like email spam in the early 2000s,https://www.greptile.com/blog/prs-on-openclaw,190,2026-06-25 03:46:46
+48660711,RubyLLM: A Ruby framework for all major AI providers,https://rubyllm.com/,359,2026-06-25 03:46:46
+48662999,Computer use in Gemini 3.5 Flash,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-computer-use-gemini-3-5-flash/,187,2026-06-25 03:46:46
+48667560,Mixing Visual and Textual Code,https://arxiv.org/abs/2603.15855,19,2026-06-25 03:46:46
+48668033,Cloudflare launched self-managed OAuth for all,https://blog.cloudflare.com/oauth-for-all/,19,2026-06-25 03:46:46
+48631366,Dostoyevsky isn't difficult,https://www.autodidacts.io/dostoyevsky-isnt-difficult/,66,2026-06-25 03:46:45
+48663324,"OpenAI unveils its first custom chip, built by Broadcom",https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/,581,2026-06-25 03:46:45
+48664814,Anthropic says Alibaba illicitly extracted Claude AI model capabilities,https://www.reuters.com/world/china/anthropic-says-alibaba-illicitly-extracted-claude-ai-model-capabilities-2026-06-24/,136,2026-06-25 03:46:45
+48666927,Blogging can just be stating the obvious,https://blog.jim-nielsen.com/2026/blogging-stating-the-obvious/,106,2026-06-25 03:46:45
+48667336,LuaJIT 3.0 proposed syntax extensions,https://github.com/LuaJIT/LuaJIT/issues/1475,84,2026-06-25 03:46:45
+48667588,Ending All Respiratory Infections,https://blog.interceptfund.com/p/ending-respiratory-infections,71,2026-06-25 03:46:45
 48603726,I can haz smoller NixOS ISOs?,https://natkr.com/2026-06-19-nixos-but-smol/,28,2026-06-24 03:47:38
 48609515,How to move a beluga across the world,https://www.cbc.ca/news/canada/hamilton/moving-marineland-beluga-whales-9.7233160,8,2026-06-24 03:47:38
 48634187,Five monitors on a Commodore 128 [video],https://www.youtube.com/watch?v=ul5hC3PY1Yg,109,2026-06-24 03:47:38
