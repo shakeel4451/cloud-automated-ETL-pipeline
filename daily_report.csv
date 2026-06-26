@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+48657049,You can't unit test for taste,https://dev.karltryggvason.com/you-cant-unit-test-for-taste/,256,2026-06-26 03:55:11
+48681687,What happened after 2k people tried to hack my AI assistant,https://www.fernandoi.cl/posts/hackmyclaw/,6,2026-06-26 03:55:11
+48616304,Show HN: Chess-Inspired Roguelike,https://princechazz.com,237,2026-06-26 03:55:10
+48619122,Experiments in Sports Seismology for the World Cup,https://pnsn.org/blog/experiments-in-sports-seismology-for-the-world-cup,12,2026-06-26 03:55:10
+48631119,The last Romans are still around,https://signoregalilei.com/2026/06/20/the-last-romans-are-still-around/,52,2026-06-26 03:55:10
+48644383,Record type inference for dummies,http://haskellforall.com/2026/06/record-type-inference-for-dummies,24,2026-06-26 03:55:10
+48672732,"Apple raises prices of MacBooks, iPads",https://www.reuters.com/world/asia-pacific/apple-raises-prices-macbooks-ipads-memory-costs-skyrocket-2026-06-25/,663,2026-06-26 03:55:10
+48673825,Zig's new bitCast semantics and LLVM back end improvements,https://ziglang.org/devlog/2026/#2026-06-25,220,2026-06-26 03:55:10
+48674484,OS9Map,https://yllan.org/software/OS9Map/,200,2026-06-26 03:55:10
+48676256,Besimple AI (YC P25) Is Hiring,https://www.ycombinator.com/companies/besimple-ai/jobs/yWfhhOR-strategic-projects-lead-audio-data,1,2026-06-26 03:55:10
+48678495,The Doorman's Fallacy in action,https://rozumem.xyz/posts/17,75,2026-06-26 03:55:10
+48678645,An oral history of Bank Python (2021),https://calpaterson.com/bank-python.html,81,2026-06-26 03:55:10
+48679385,Migrating from Proxmox to NixOS and Incus,https://www.nijho.lt/post/proxmox-to-nixos/,62,2026-06-26 03:55:10
+48631450,Oxide computer 3D rack guided tour,https://explorer.oxide.computer/,310,2026-06-26 03:55:09
+48638710,Eyewitness at the Triangle (1911),http://trianglefire.ilr.cornell.edu/index.html,13,2026-06-26 03:55:09
+48642474,"A game where you're an OS and have to manage processes, memory and I/O events",https://github.com/plbrault/youre-the-os,124,2026-06-26 03:55:09
+48674967,IBM debuts sub-1 nanometer chip technology,https://newsroom.ibm.com/2026-06-25-ibm-debuts-worlds-first-sub-1-nanometer-chip-technology,279,2026-06-26 03:55:09
+48675435,Show HN: OpenKnowledge – open source AI-first alternative to Obsidian/Notion,https://github.com/inkeep/open-knowledge,224,2026-06-26 03:55:09
+48678623,Parallel Parentheses Matching,https://williamdue.github.io/blog/parallel-parentheses-matching,70,2026-06-26 03:55:09
+48679007,Un-0: Generating Images with Coupled Oscillators,https://unconv.ai/blog/introducing-un-0-generating-images-with-coupled-oscillators/,124,2026-06-26 03:55:09
+48680370,The Garbage Collection Handbook: The Art of Automatic Memory Management (2nd Ed) (2023),https://gchandbook.org/,78,2026-06-26 03:55:09
+48681361,A data race that doesn't compile,https://corentin-core.github.io/posts/ruxe-type-level-disjointness/,20,2026-06-26 03:55:09
+48682016,No-One Escapes the Permanent Underclass,https://borretti.me/article/no-one-escapes-the-permanent-underclass,6,2026-06-26 03:55:09
+48675179,An entire Herculaneum scroll has been read for the first time,https://scrollprize.org/firstscroll,1060,2026-06-26 03:55:08
+48676795,Apple to skip high-end M6 Mac chips in favor of AI-focused M7 line,https://www.bloomberg.com/news/articles/2026-06-25/apple-to-skip-high-end-m6-mac-chips-to-launch-m7-pro-m7-max-m7-ultra-instead?embedded-checkout=true,132,2026-06-26 03:55:08
+48678852,Om Malik has died,https://om.co/2026/06/24/1966-2026/,596,2026-06-26 03:55:08
+48679608,"The 'papers, please' era of the internet will decimate your privacy",https://expression.fire.org/p/the-papers-please-era-of-the-internet,488,2026-06-26 03:55:08
+48681220,Framework's 10G Ethernet module exposes USB-C's complexity,https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/,67,2026-06-26 03:55:08
+48681949,Libre Barcode Project,https://graphicore.github.io/librebarcode/,16,2026-06-26 03:55:08
 48595882,Show HN: Write SaaS apps where users control where their data is stored,https://github.com/wolfoo2931/linkedrecords/,3,2026-06-25 03:46:49
 48606222,A Practical Guide to SSH Tunnels: Local and Remote Port Forwarding,https://labs.iximiuz.com/tutorials/ssh-tunnels,292,2026-06-25 03:46:49
 48646659,Krea 2: SOTA open-weights 12B image model,https://www.krea.ai/blog/krea-2-technical-report,354,2026-06-25 03:46:49
