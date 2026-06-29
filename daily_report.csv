@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48706796,The MUMPS 76 Primer – anniversary edition,https://github.com/rochus-keller/MUMPS/blob/main/docs/MUMPS_Primer.adoc,72,2026-06-29 04:08:03
+48710778,Show HN: NanoEuler – GPT-2 scale model in pure C/CUDA from scratch,https://github.com/JustVugg/nanoeuler,39,2026-06-29 04:08:03
+48710827,"Show HN: Bash4LLM+ – A lightweight, dependency-free Bash wrapper for LLM APIs",https://github.com/kamaludu/bash4llm/,38,2026-06-29 04:08:03
+48673450,Model Training as Code,https://aleph-alpha.com/en/blog/model-training-as-code/,28,2026-06-29 04:08:02
+48678393,Idler Magazine,https://www.idler.co.uk/,5,2026-06-29 04:08:02
+48696127,Researchers have developed pixels that can emit and analyse light together,https://ethz.ch/en/news-and-events/eth-news/news/2026/06/a-new-type-of-pixel.html,52,2026-06-29 04:08:02
+48706560,The KIDS Act would require age checks to get online,https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online,360,2026-06-29 04:08:02
+48706714,A way to exclude sensitive files issue still open for OpenAI Codex,https://github.com/openai/codex/issues/2847,184,2026-06-29 04:08:02
+48706814,The curious case of the disappearing Polish S (2015),https://aresluna.org/the-curious-case-of-the-disappearing-polish-s/,214,2026-06-29 04:08:02
+48708700,Examining circuit boards from the Space Shuttle's I/O Processor,https://www.righto.com/2026/06/space-shuttle-io-processor-boards.html,91,2026-06-29 04:08:02
+48684315,The Baffling World of Masayoshi Son's Presentations (2020),https://www.bloomberg.com/news/features/2020-06-23/golden-geese-and-unicorns-inside-the-eccentric-presentations-of-masayoshi-son,31,2026-06-29 04:08:01
+48708795,"Tokenmaxxing is dead, long live tokenmaxxing",https://12gramsofcarbon.com/p/agentics-tech-things-tokenmaxxing,120,2026-06-29 04:08:01
+48708859,"Daisugi, the Japanese technique of growing trees out of other trees (2020)",https://www.openculture.com/2020/10/daisugi.html,122,2026-06-29 04:08:01
+48708991,Professor denounces mass AI fraud on an exam at Brown,https://english.elpais.com/education/2026-06-28/ai-fraud-at-brown-university-academic-integrity-is-at-risk.html,320,2026-06-29 04:08:01
+48709186,Show HN: DRM-Free Books,https://frequal.com/Perspectives/DrmFreeAuthors.html,82,2026-06-29 04:08:01
+48709187,Working around dragons with the Lemote Yeeloong laptop and OpenBSD,http://oldvcr.blogspot.com/2026/06/working-around-dragons-with-lemote.html,95,2026-06-29 04:08:01
+48710232,Librepods: AirPods liberated,https://github.com/librepods-org/librepods,310,2026-06-29 04:08:01
+48712762,On cigarettes,https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/,32,2026-06-29 04:08:01
+48657131,Deciphering Basmala,https://blog.plover.com/lang/bismillah.html,21,2026-06-29 04:08:00
+48675295,The Boeing 747 begins its final descent,https://www.theatlantic.com/magazine/2026/07/boeing-747-retirement/687304/,155,2026-06-29 04:08:00
+48708182,Show HN: Zanagrams,https://zanagrams.com/,215,2026-06-29 04:08:00
+48708941,I used Claude Code to get a second opinion on my MRI,https://antoine.fi/mri-analysis-using-claude-code-opus,371,2026-06-29 04:08:00
+48710775,TOP500 at ISC’26: We have a New Number 1 Supercomputer,https://chipsandcheese.com/p/top500-at-isc26-we-have-a-new-number,89,2026-06-29 04:08:00
+48712420,Knowledge Distillation of Black-Box Large Language Models (2024),https://arxiv.org/abs/2401.07013,64,2026-06-29 04:08:00
+48713697,"AI boom risks global financial crash, warn central bankers",https://www.telegraph.co.uk/business/2026/06/28/ai-boom-risks-global-financial-crash-central-bankers-warn/,89,2026-06-29 04:08:00
+48707763,5k menus from the New York Public Library’s Buttolph Collection (1880-1920),https://pudding.cool/2026/06/menu-story/,342,2026-06-29 04:07:59
+48709670,GLM 5.2 beats Claude in our benchmarks,https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/,575,2026-06-29 04:07:59
+48710092,Historical memory prices 1960-2026,https://dam.stanford.edu/memory-prices.html,220,2026-06-29 04:07:59
+48713051,Better Images of AI,https://betterimagesofai.org/,37,2026-06-29 04:07:59
+48714529,Age verification is just a precursor to automated attribution of speech,https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026,52,2026-06-29 04:07:59
 48659517,How do you keep Web MIDI from crashing a 1983 synthesizer?,https://knob.monster/how-do-you-keep-web-midi-from-crashing-a-1983-synthesizer,30,2026-06-28 04:01:21
 48661078,How a YouTube video accidentally proved Libya's sand cat does exist,https://www.theguardian.com/environment/2026/jun/24/youtube-video-proved-libya-sand-cat-exist-aoe,26,2026-06-28 04:01:21
 48696585,DSpark: Speculative decoding accelerates LLM inference [pdf],https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf,737,2026-06-28 04:01:21
