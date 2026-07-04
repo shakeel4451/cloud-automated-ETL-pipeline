@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48730953,Hunting a 16-year-old SQLite WAL bug with TLA+,https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected,178,2026-07-04 03:20:30
+48744546,We put a Redis server inside our runtime,https://encore.dev/blog/redis-runtime,28,2026-07-04 03:20:30
+48746695,Notes from Building Tinkerfont,https://mighil.com/notes-from-building-tinkerfont,11,2026-07-04 03:20:30
+48772573,Wordgard: In-browser rich-text editor from the creator of ProseMirror,https://wordgard.net/,273,2026-07-04 03:20:30
+48774509,PostgreSQL and the OOM killer: Why we use strict memory overcommit,https://www.ubicloud.com/blog/postgresql-and-the-oom-killer-why-we-use-strict-memory-overcommit,165,2026-07-04 03:20:30
+48778757,FreeBSD ate my RAM,https://crocidb.com/post/freebsd-ate-my-ram/,92,2026-07-04 03:20:30
+48779977,Africans Are Turning to Starlink,https://www.economist.com/middle-east-and-africa/2026/07/02/africans-are-turning-to-starlink,122,2026-07-04 03:20:30
+48780812,GitFut – Your GitHub stats turned into a World-Cup-style player card,https://gitfut.com,29,2026-07-04 03:20:30
+48739682,Gone but Not Forgotten: Recovering the Dead Web,https://blog.archive.org/2026/04/23/gone-but-not-forgotten-recovering-the-dead-web/,28,2026-07-04 03:20:29
+48776035,Factories are just rooms,https://interconnected.org/home/2026/07/03/factories,203,2026-07-04 03:20:29
+48776044,Costco is the anti-Amazon,https://phenomenalworld.org/analysis/the-anti-amazon/,333,2026-07-04 03:20:29
+48777266,International chess federation sanctions Kramnik,https://www.fide.com/fide-ethics-disciplinary-commission-issues-a-decision-in-case-involving-gm-vladimir-kramnik/,136,2026-07-04 03:20:29
+48779906,Infracost (YC W21) Is Hiring a Marketing Lead to Shift FinOps Left,https://www.ycombinator.com/companies/infracost/jobs/YTJcFwr-marketing-lead,1,2026-07-04 03:20:29
+48780224,"Software, from First Principles",https://fazamhd.com/mental-models/software/,55,2026-07-04 03:20:29
+48780826,Dispersion loss counteracts embedding condensation in small language models,https://chenliu-1996.github.io/projects/LM-Dispersion/,26,2026-07-04 03:20:29
+48781274,Scientists discover guidance system for migratory songbirds,https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/scientists-discover-guidance-system-for-migratory-songbirds/,17,2026-07-04 03:20:29
+48735097,"Show HN: A statically typed, cross-platform, easily bootstrappable build system",https://github.com/rochus-keller/BUSY/,16,2026-07-04 03:20:28
+48775921,Jamesob's guide to running SOTA LLMs locally,https://github.com/jamesob/local-llm,297,2026-07-04 03:20:28
+48779454,SearXNG: A free internet metasearch engine,https://github.com/searxng/searxng,147,2026-07-04 03:20:28
+48779683,Espionage Against the European Parliament,https://citizenlab.ca/research/member-of-committee-investigating-spyware-hacked-with-pegasus/,291,2026-07-04 03:20:28
+48779723,Applied Category Theory Course (2018),https://math.ucr.edu/home/baez/act_course/index.html,70,2026-07-04 03:20:28
+48780056,New serious vulnerabilities spiked around release of Claude Mythos Preview,https://epoch.ai/data-insights/cve-severity-spike,61,2026-07-04 03:20:28
+48780865,Steam Controller Auto-Charge – pilot to magnetic charging puck using CV,https://github.com/FossPrime/Steam-Controller-Auto-Charge,87,2026-07-04 03:20:28
+48780913,The firefighting system of the Van der Heyden brothers in 17th century Amsterdam,https://worksinprogress.co/issue/how-amsterdam-invented-the-fire-department/,52,2026-07-04 03:20:28
+48780996,The circuit that lets your brain think and see,https://www.engineering.columbia.edu/about/news/circuit-lets-your-brain-think-and-see,51,2026-07-04 03:20:28
+48781597,Soatok's Informal Guide to Threat Models,https://soatok.blog/2026/06/30/soatoks-informal-guide-to-threat-models/,40,2026-07-04 03:20:28
+48780417,GLM5.2 on AMD MI355X at 2626 tok/s/node at over 2x lower cost than Blackwell,https://www.wafer.ai/blog/glm52-amd,121,2026-07-04 03:20:27
+48780801,Leanstral 1.5: Proof Abundance for All,https://mistral.ai/news/leanstral-1-5/,110,2026-07-04 03:20:27
+48780870,Giant trees have no trouble pumping water to top branches,https://news.exeter.ac.uk/faculty-of-environment-science-and-economy/giant-trees-have-no-trouble-pumping-water-to-top-branches/,119,2026-07-04 03:20:27
+48781688,MSI Center – How to gain SYSTEM privileges in seconds,https://mrbruh.com/msicenter/,34,2026-07-04 03:20:27
 48667568,A Special Wireless-Free Nikon Camera Is Publicly Available for the First Time,https://petapixel.com/2026/06/24/a-special-wireless-free-nikon-camera-is-publicly-available-for-the-first-time/,28,2026-07-03 03:27:33
 48729404,Show HN: Gitstock–Transform you GitHub commit history into K-line and animations,https://gitstock.org/,13,2026-07-03 03:27:33
 48731619,Crossword Heatmap,https://arbourtrary.com/sketches/crossword-heatmap,5,2026-07-03 03:27:33
