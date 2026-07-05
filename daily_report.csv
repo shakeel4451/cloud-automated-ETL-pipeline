@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48738395,Drone Physics,https://iahmed.me/post/drone-physics/,93,2026-07-05 03:36:43
+48742175,What ORMs have taught me: just learn SQL (2014),https://wozniak.ca/blog/2014/08/03/1/index.html,133,2026-07-05 03:36:43
+48743462,"It's not me, it's the compiler",https://parsa.wtf/cast/,71,2026-07-05 03:36:43
+48746327,The Vespa at 80,https://www.cbc.ca/news/world/vespa-italy-postwar-design-9.7252641,148,2026-07-05 03:36:43
+48758328,CloudsLinker: Move and sync files across 50 cloud services,https://app.cloudslinker.com/login,9,2026-07-05 03:36:43
+48785840,Windows CE Dreamcast Community Edition (wince-dc),https://github.com/maximqaxd/wince-dc,95,2026-07-05 03:36:43
+48786245,Fable created novel 4D splat format,https://adamraudonis.github.io/splats4D/,121,2026-07-05 03:36:43
+48787329,Verizon is about to break our Gizmo watches,https://www.jefftk.com/p/verizon-is-about-to-break-our-watches,147,2026-07-05 03:36:43
+48787725,"As downtown Seattle offices empty, city facing years of 'zombie' towers",https://www.seattletimes.com/business/local-business/as-downtown-seattle-offices-empty-city-facing-years-of-zombie-towers/,72,2026-07-05 03:36:43
+48788849,Protocol Prying: Vulnerability Research in AirDrop and Quick Share,https://arxiv.org/abs/2606.26967,19,2026-07-05 03:36:43
+48789986,Mapping with In-Memory Layers to Reduce LLM Overload,https://ridgetext.com/blog/mapbox-llm-composition,11,2026-07-05 03:36:43
+48790349,Egg consumption inversely correlated with Alzheimer's,https://pubmed.ncbi.nlm.nih.gov/42002260/,47,2026-07-05 03:36:43
+48790689,"If you're a button, you have one job",https://unsung.aresluna.org/if-youre-a-button-you-have-one-job/,5,2026-07-05 03:36:43
+48750405,Meta's Un-Stable Signature,https://hackerfactor.com/blog/index.php?/archives/1098-Metas-Un-Stable-Signature.html,32,2026-07-05 03:36:42
+48765920,"Atomic Force Microscope high-speed video, stainless etching, bacteria, and more",https://www.youtube.com/watch?v=DyIQkqBXhS0,18,2026-07-05 03:36:42
+48784777,Explanation of everything you can see in htop/top on Linux (2019),https://peteris.rocks/blog/htop/,416,2026-07-05 03:36:42
+48785485,Potential session/cache leakage between workspace instances or consumer accounts,https://github.com/anthropics/claude-code/issues/74066,279,2026-07-05 03:36:42
+48786638,Zig: All Package Management Functionality Moved from Compiler to Build System,https://ziglang.org/devlog/2026/#2026-06-30,154,2026-07-05 03:36:42
+48786781,Leaking YouTube creators' private videos,https://javoriuski.com/post/youtube,515,2026-07-05 03:36:42
+48786838,Google Books (or similar) all book scans – $200k bounty (2025),https://software.annas-archive.gl/AnnaArchivist/annas-archive/-/work_items/234,366,2026-07-05 03:36:42
+48787042,"""Beyond the limit"": Satellites and mirrors in space pose threat to the night sky",https://www.eso.org/public/news/eso2607/,109,2026-07-05 03:36:42
+48788599,Better Models: Worse Tools,https://lucumr.pocoo.org/2026/7/4/better-models-worse-tools/,116,2026-07-05 03:36:42
+48789428,GPT-5.5 Codex reasoning-token clustering may be leading to degraded performance,https://github.com/openai/codex/issues/30364,175,2026-07-05 03:36:42
+48789712,Jellyfish can heal wounds in minutes. Scientists want their secrets,https://www.mbl.edu/news/jellyfish-can-heal-wounds-minutes-scientists-want-their-secrets,56,2026-07-05 03:36:42
+48789965,Drone Autonomy Crash Course,https://www.cggonzalez.com/blog/index.html,15,2026-07-05 03:36:42
+48790036,Reflections on the Guillotine (1957),https://theanarchistlibrary.org/library/albert-camus-reflections-on-the-guillotine,31,2026-07-05 03:36:42
+48790240,Return of the Nigerian Prince Redux: Beware Book Club and Book Review Scams,https://writerbeware.blog/2025/09/19/return-of-the-nigerian-prince-redux-beware-book-club-and-book-review-scams/,20,2026-07-05 03:36:42
+48790583,Efficacy and Safety of Psilocybin in Treatment-Resistant Major Depression,https://jamanetwork.com/journals/jamapsychiatry/fullarticle/2846478,5,2026-07-05 03:36:42
+48790913,University of Oxford Is Older Than the Aztec Empire and Other Facts of History,https://www.smithsonianmag.com/smart-news/university-oxford-older-than-aztec-empire-other-facts-will-change-your-perspective-history-1529607/,17,2026-07-05 03:36:42
+48788283,"Command and Conquer Generals natively ported to macOS, iPhone, iPad using Fable",https://github.com/ammaarreshi/Generals-Mac-iOS-iPad/tree/main,392,2026-07-05 03:36:41
 48730953,Hunting a 16-year-old SQLite WAL bug with TLA+,https://ubuntu.com/blog/hunting-a-16-year-old-sqlite-bug-with-tla-is-dqlite-affected,178,2026-07-04 03:20:30
 48744546,We put a Redis server inside our runtime,https://encore.dev/blog/redis-runtime,28,2026-07-04 03:20:30
 48746695,Notes from Building Tinkerfont,https://mighil.com/notes-from-building-tinkerfont,11,2026-07-04 03:20:30
