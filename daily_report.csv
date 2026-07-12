@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48844476,How to Achieve Pruning When Querying by Non-Partitioned Columns in PostgreSQL,https://hakibenita.com/postgresql-partition-pruning,8,2026-07-12 02:55:28
+48871973,"Show HN: Learn by rebuilding Redis, Git, a database from scratch",https://shipthatcode.com,133,2026-07-12 02:55:28
+48873501,"Show HN: Orbit – AR satellite tracker, watch 15k+ objects",https://nagylukas.github.io/orbit.html,62,2026-07-12 02:55:28
+48873665,Sixtyfour (YC P25) Is Hiring,https://www.ycombinator.com/companies/sixtyfour/jobs/bIbgQkL-operations-associate-data-samples-customer-success,1,2026-07-12 02:55:28
+48874297,ZeroFS vs. Amazon S3 Files,https://www.zerofs.net/blog/zerofs-vs-aws-s3-files/,64,2026-07-12 02:55:28
+48875342,Show HN: Sqlsure – deterministic semantic checks for AI-generated SQL,https://github.com/sqlsure/sqlsure,21,2026-07-12 02:55:28
+48877009,A public ledger of cloud outages and the SLA credits they trigger,https://slacreditwatch.com,16,2026-07-12 02:55:28
+48877192,Long Covid May Physically Damage the Nerves That Control the Stomach,https://www.ijidonline.com/article/S1201-9712(26)00608-9/fulltext,46,2026-07-12 02:55:28
+48877723,Small Inventors Are Being Squeezed by a Convoluted Patent Process,https://www.nationalreview.com/news/small-inventors-are-being-squeezed-by-a-convoluted-patent-process/,5,2026-07-12 02:55:28
+48820361,Biff.graph: structure your Clojure codebase as a queryable graph,https://github.com/jacobobryant/biff/tree/v2.x/libs/graph,90,2026-07-12 02:55:27
+48830664,Optimization Solver as a Service,https://www.quicopt.com/developer/getting-started/,20,2026-07-12 02:55:27
+48840152,Jellyfish Undersea Roundabout,https://visitfaroeislands.com/en/plan-your-stay/getting-around/world-first-under-sea-roundabout,6,2026-07-12 02:55:27
+48846177,I Did Not Kill Stanley Lieber: How to Draw (With 9front),https://triapul.cz/automa/i_did_not_kill_stanley_lieber,17,2026-07-12 02:55:27
+48849744,Billions of Sketches Reveal Hidden Cultural Variation in Human Concepts,https://arxiv.org/abs/2607.07267,59,2026-07-12 02:55:27
+48872858,The early History of the Singular Value Decomposition (1993) [pdf],https://www.math.ucdavis.edu/~saito/courses/229A/stewart-svd.pdf,93,2026-07-12 02:55:27
+48872874,We scaled PgBouncer to 4x throughput,https://clickhouse.com/blog/pgbouncer-clickhouse-managed-postgres,181,2026-07-12 02:55:27
+48873457,UPI: Anatomy of a Payment Transaction,https://timeseriesofindia.com/economy/reads/upi-architecture/,111,2026-07-12 02:55:27
+48873836,"Nvidia, CoreWeave, and Nebius: Inside the Circular Financing of the GPU Boom",https://io-fund.com/ai-stocks/nvidia-coreweave-nebius-circular-financing-gpu-boom,172,2026-07-12 02:55:27
+48873940,Prefer strict tables in SQLite,https://evanhahn.com/prefer-strict-tables-in-sqlite/,228,2026-07-12 02:55:27
+48876245,"RISCBoy is an open-source portable games console, designed from scratch",https://github.com/Wren6991/RISCBoy,69,2026-07-12 02:55:27
+48876741,"Doctors die. It's not like the rest of us, but it should be (2016)",https://archive.cancerworld.net/featured/how-doctors-die/,83,2026-07-12 02:55:27
+48877178,"Martha Lillard, last US polio patient using iron lung, dies at 78 in Oklahoma",https://abcnews.com/US/wireStory/martha-lillard-us-polio-patient-iron-lung-dies-134668491,29,2026-07-12 02:55:27
+48877344,A Erlang style pure Scheme Webserver and further,https://igropyr.com,8,2026-07-12 02:55:27
+48877613,The Energetic Costs of Cellular Computation (2012),https://arxiv.org/abs/1203.5426,4,2026-07-12 02:55:27
+48875377,Show HN: Ant – A JavaScript runtime and ecosystem,https://antjs.org,190,2026-07-12 02:55:26
+48876505,Mesh LLM: distributed AI computing on iroh,https://www.iroh.computer/blog/mesh-llm,121,2026-07-12 02:55:26
+48877269,A dock that wakes up reliably,https://fabiensanglard.net/tb4/index.html,30,2026-07-12 02:55:26
+48877314,A pure scheme web programming tool,https://goeteia.dev,21,2026-07-12 02:55:26
+48877371,What xAI's Grok Build CLI Actually Sends to xAI,https://gist.github.com/cereblab/dc9a40bc26120f4540e4e09b75ffb547,31,2026-07-12 02:55:26
+48877668,"We Know Simple Fluids Can Flow. Turns Out, Some Can Fracture",https://www.quantamagazine.org/we-know-simple-fluids-can-flow-turns-out-some-can-fracture-20260710/,8,2026-07-12 02:55:26
 48859678,Successful Companies Go Blind,https://ianreppel.org/how-successful-companies-go-blind/,194,2026-07-11 02:47:16
 48862252,Snails' teeth beats spider silk as nature's strongest material (2015),https://www.smithsonianmag.com/smart-news/spider-silk-loses-top-spot-natures-strongest-material-snails-teeth-180954346/,158,2026-07-11 02:47:16
 48864969,"GhostLock, a stack-UAF that has existed in ALL Linux distributions for 15 years",https://nebusec.ai/research/ionstack-part-2/,42,2026-07-11 02:47:16
