@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+48933310,The LLM Critics Are Right. I Use LLMs Anyway,https://www.theocharis.dev/blog/llm-critics-are-right-i-use-llms-anyway/,194,2026-07-17 02:46:27
+48934286,Goes-19 weather satellite enters Safe Hold mode,https://www.spaceweather.gov/news/goes-19-safe-hold,154,2026-07-17 02:46:27
+48937398,CD sales growth outpaced vinyl in the first half of 2026,https://consequence.net/2026/07/the-cd-revival-is-getting-hard-to-ignore/,67,2026-07-17 02:46:27
+48871547,Show HN: Clx – Compile Lua to Native Executables Through C++20,https://github.com/samyeyo/clx,88,2026-07-17 02:46:26
+48908886,Pseudpocalypse,https://dynomight.net/pseudpocalypse/,85,2026-07-17 02:46:26
+48932722,Abstracting Effects with Continuations,https://crowdhailer.me/2026-07-15/abstracting-effects-with-continuations/,40,2026-07-17 02:46:26
+48933149,How Our Rust-to-Zig Rewrite Is Going,https://rtfeldman.com/rust-to-zig,418,2026-07-17 02:46:26
+48935687,How to Train a Gen AI Kick Drum Model on Your Old Linux Desktop with 6GB VRAM,https://www.zhinit.dev/blog/training-a-kick-drum-diffusion-model,101,2026-07-17 02:46:26
+48935951,Immersive Linear Algebra Book with Interactive Figures (2015),https://immersivemath.com/ila/,175,2026-07-17 02:46:26
+48937125,Adaptional (YC S25) Is Hiring,https://www.ycombinator.com/companies/adaptional/jobs,1,2026-07-17 02:46:26
+48939641,The privacy problems hidden in your period tracker,https://www.bbc.com/future/article/20260715-how-period-trackers-share-womens-private-details,75,2026-07-17 02:46:26
+48940603,Ring-Zero: Scaling Zero RL to a Trillion Parameters for Emergent Reasoning,https://arxiv.org/abs/2607.12395,37,2026-07-17 02:46:26
+48940895,CVE-2026-25089: FortiSandbox unauthenticated command injection added to CISA KEV,https://hellorecon.com/blog/cve-2026-25089,24,2026-07-17 02:46:26
+48941123,Show HN: Mojibake – A low-level Unicode library written in C,https://mojibake.zaerl.com/,39,2026-07-17 02:46:26
+48895199,Solod: Go can be a better C,https://solod.dev,44,2026-07-17 02:46:25
+48896044,"Simulating everything, sort of: The promise and limits of world models",https://arstechnica.com/ai/2026/07/simulating-everything-sort-of-the-promise-and-limits-of-world-models/,7,2026-07-17 02:46:25
+48936451,NotebookLM is now Gemini Notebook,https://blog.google/innovation-and-ai/products/gemini-notebook/notebooklm-gemini-notebook/,253,2026-07-17 02:46:25
+48936880,Detecting LLM-Generated Texts with “Classical” Machine Learning,https://blog.lyc8503.net/en/post/llm-classifier/,163,2026-07-17 02:46:25
+48939742,Helium escaping from atmosphere of nearby rocky exoplanet in a habitable zone,https://www.science.org/doi/10.1126/science.aea9708,73,2026-07-17 02:46:25
+48939896,Mathematics of Data Science,https://arxiv.org/abs/2607.11938,103,2026-07-17 02:46:25
+48940833,'Likweli': A new monkey species discovered in the Congo Basin,https://news.yale.edu/2026/07/15/meet-likweli-new-monkey-species-discovered-congo-basin,53,2026-07-17 02:46:25
+48941104,The Little Book of Reinforcement Learning,https://github.com/alxndrTL/little-book-rl/,62,2026-07-17 02:46:25
+48942000,The Human-in-the-Loop Is Tired,https://pydantic.dev/articles/the-human-in-the-loop-is-tired,21,2026-07-17 02:46:25
+48935342,Kimi K3: Open Frontier Intelligence,https://www.kimi.com/blog/kimi-k3,1220,2026-07-17 02:46:24
+48936426,Microsoft Comic Chat is now open source,https://opensource.microsoft.com/blog/2026/07/16/microsoft-comic-chat-is-now-open-source/,562,2026-07-17 02:46:24
+48936584,Decoy Font,https://www.mixfont.com/experiments/decoy-font,426,2026-07-17 02:46:24
+48939524,$100 AI Music Video: Claude Fable 5 vs. GPT-5.6 Sol,https://www.tryai.dev/blog/ai-music-video-arena-claude-vs-gpt-5.6,148,2026-07-17 02:46:24
+48939662,LM Studio Bionic: the AI agent for open models,https://lmstudio.ai/blog/introducing-lm-studio-bionic,171,2026-07-17 02:46:24
+48942125,"M 3.9 Experimental Explosion – 147 Km ENE of Ponce Inlet, Florida",https://earthquake.usgs.gov/earthquakes/eventpage/us7000t13l/executive,33,2026-07-17 02:46:24
 48883578,"Today I Rescued 7,234 Old GIFs",https://danq.me/2026/07/10/rescuing-7234-gifs/,114,2026-07-16 02:44:05
 48892273,"MITS: Rockets, Calculators, and Personal Computers",https://www.abortretry.fail/p/micro-instrumentation-and-telemetry,38,2026-07-16 02:44:05
 48894874,Designing APIs for Agents,https://www.freestyle.sh/blog/opinion/designing-apis-for-agents,56,2026-07-16 02:44:05
