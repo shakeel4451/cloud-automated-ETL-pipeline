@@ -1,4 +1,31 @@
 id,title,url,score,extraction_date
+49021786,Emacs Is a Lispboard,https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/,97,2026-07-24 02:47:46
+49027052,Mourning Dan Williams,https://lwn.net/Articles/1084545/,24,2026-07-24 02:47:46
+48978989,Meta Garbage Collection: Using OCaml's GC to GC Rust,https://soteria-tools.com/blog/meta-garbage-collection,57,2026-07-24 02:47:45
+48984760,Converting Files into Minecraft Worlds,https://wuemeli.com/blog/sulfur-part-1/,53,2026-07-24 02:47:45
+49020999,AI Companies Are Trying to Hide a Staggering Amount of Debt,https://futurism.com/artificial-intelligence/ai-companies-hide-debt-off-balance-sheet,609,2026-07-24 02:47:45
+49022663,Learn WebGPU for C++,https://eliemichel.github.io/LearnWebGPU/,86,2026-07-24 02:47:45
+49023427,Show HN: OneCLI – OSS credential gateway that keeps secrets out of AI agents,https://github.com/onecli/onecli,81,2026-07-24 02:47:45
+49024643,The arguments against open source AI are bad,https://tombedor.dev/arguments-against-open-source-ai-are-very-bad/,211,2026-07-24 02:47:45
+49024882,Show HN: Claude-thermos keeps your Claude session warm for you,https://github.com/izeigerman/claude-thermos,76,2026-07-24 02:47:45
+48973071,Freeze-Casting,https://en.wikipedia.org/wiki/Freeze-casting,3,2026-07-24 02:47:44
+48974300,Fractl.art – a fractal generator with 8 octillion different patterns,https://fractl.art,14,2026-07-24 02:47:44
+49021597,"DARPA, U.S. Air Force fly AI-controlled F-16",https://www.darpa.mil/news/2026/darpa-us-air-force-fly-ai-controlled-f-16,189,2026-07-24 02:47:44
+49021783,Astronomers may have found the first exomoon,https://www.eso.org/public/news/eso2610/,197,2026-07-24 02:47:44
+49022634,"Learn OpenGL, extensive tutorial resource for learning Modern OpenGL",https://learnopengl.com/,186,2026-07-24 02:47:44
+49022911,Show HN: Palmier Pro – Open-source macOS video editor built for AI,https://github.com/palmier-io/palmier-pro,125,2026-07-24 02:47:44
+49025831,A solid-state “atomic channel” for separating rare earth elements,https://pme.uchicago.edu/news-events/news/cleaner-route-purifying-rare-earth-elements,74,2026-07-24 02:47:44
+49029133,A taxonomy of omnicidal futures involving artificial intelligence (2025),https://arxiv.org/abs/2507.09369,56,2026-07-24 02:47:44
+49030474,Police Removed Prominent Scientists from the ADA Meeting. Researchers Respond,https://www.the-scientist.com/police-removed-prominent-scientists-from-the-ada-meeting-researchers-respond-74607,14,2026-07-24 02:47:44
+49007221,The Beam Engine,https://glinscott.github.io/beam-engine/,184,2026-07-24 02:47:43
+49022038,Software rendering in 500 lines of bare C++,https://haqr.eu/tinyrenderer/,249,2026-07-24 02:47:43
+49022152,Writing by hand is good for your brain,https://nealstephenson.substack.com/p/writing-by-hand-is-good-for-your,1009,2026-07-24 02:47:43
+49023016,Startup founders urge U.S. government not to shut off Chinese open weight AI,https://www.politico.com/news/2026/07/22/startup-founders-urge-trump-not-to-shut-off-chinese-open-weight-ai-01008992,748,2026-07-24 02:47:43
+49023019,Why Software Factories Fail (or: harness engineering is not enough),https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/wsff.md,191,2026-07-24 02:47:43
+49024691,What happened to TheNumbers.com,https://stephenfollows.com/p/what-just-happened-to-thenumberscom-should-worry-us-all,304,2026-07-24 02:47:43
+49025984,Building on ATProto,https://lukekanies.com/writing/building-on-atproto/,133,2026-07-24 02:47:43
+49028927,98.css,https://jdan.github.io/98.css/#status-bar,267,2026-07-24 02:47:43
+49029538,The Visual 6502,http://visual6502.org/JSSim/index.html,57,2026-07-24 02:47:43
 49005973,Businesses with ugly AI menu redesigns,https://blog.fiddery.com/businesses-with-ugly-ai-menu-redesigns/,194,2026-07-23 02:53:03
 49006195,Back to Kagi,https://blog.melashri.net/micro/back-to-kagi/,210,2026-07-23 02:53:03
 49007626,Ghost Cut – or why Cut and Paste is broken everywhere,https://ishmael.textualize.io/blog/ghost-cut/,137,2026-07-23 02:53:03
