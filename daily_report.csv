@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48986560,"The road to epsilon-zero: Nim always ends, even with infinite ordinals",https://blog.plover.com/math/ordinals/02-wellfoundedness.html,11,2026-07-25 02:46:53
+49034673,Programming language file extensions that match ISO 3166-1 alpha-2 country codes,https://www.bruh.ltd/blog/programming-language-file-extensions-that-match-an-iso-3166-1-alpha-2-country-code/,41,2026-07-25 02:46:53
+48977849,The footprints of every building in NYC,https://www.beautifulpublicdata.com/the-footprints-of-every-building-in-nyc/,53,2026-07-25 02:46:52
+48993731,Show HN: Lucen a Python compiler that parallelizes for-loops via comment pragmas,https://github.com/fcmv/lucen,7,2026-07-25 02:46:52
+49033099,"Buz – A fork of Bun using modern Zig, with sub-1s incremental builds",https://ziggit.dev/t/buz-a-drop-in-replacement-for-bun-using-modern-zig-with-sub-1s-incremental-builds/16891,231,2026-07-25 02:46:52
+49033110,Future euro banknote design proposals,https://www.ecb.europa.eu/euro/banknotes/future_banknotes/html/all-design-proposals.en.html,132,2026-07-25 02:46:52
+49034217,The case for MUDs in modern times (2018),https://www.andrewzigler.com/feed/the-case-for-muds-in-modern-times,83,2026-07-25 02:46:52
+49036433,Government orders GitHub to remove Bluetooth-based chat app Bitchat: Jack Dorsey,https://www.thehindu.com/news/national/government-orders-github-to-remove-bluetooth-based-chat-app-bitchat-over-security-concerns-jack-dorsey/article71262049.ece,396,2026-07-25 02:46:52
+49038045,Unitree As2-W,https://www.unitree.com/As2-W/,98,2026-07-25 02:46:52
+49038060,Be skeptical of OpenAI's rogue hacker agent story,https://www.theguardian.com/technology/2026/jul/24/openai-rogue-hacker,434,2026-07-25 02:46:52
+49039395,Gsxui – Shadcn-style components for Go,https://ui.gsxhq.dev/,56,2026-07-25 02:46:52
+49041546,Show HN: Max Studio Tools – C++ DSP Modules for Max and Ableton Live,https://github.com/apresta/max-studio-tools,23,2026-07-25 02:46:52
+48985182,Designing an Ethernet Switch ASIC,https://essenceia.github.io/projects/ethernet_switch_asic/,119,2026-07-25 02:46:51
+48995409,Firefox Containers Preview,https://blog.mozilla.org/en/firefox/firefox-containers-preview/,236,2026-07-25 02:46:51
+49004464,Marimo now runs in PyCharm,https://marimo.io/blog/pycharm,84,2026-07-25 02:46:51
+49008512,"An old patent inspired the new ""Y-zipper"", a three-sided fastener",https://news.mit.edu/2026/three-sided-y-zipper-design-0504,138,2026-07-25 02:46:51
+49024938,Kimi K3 exploited the latest Redis server,https://twitter.com/fried_rice/status/2080059356322918777,147,2026-07-25 02:46:51
+49026933,"Fil-C: Garbage In, Memory Safety Out [video]",https://www.youtube.com/watch?v=5F-2Y1LPRek,109,2026-07-25 02:46:51
+49033004,"If coding has been solved, why does software keep getting worse?",https://ptrchm.com/posts/nothing-works-and-everyone-is-euphoric/,567,2026-07-25 02:46:51
+49033240,IRGC claims it destroyed Amazon's Bahrain data center,https://houseofsaud.com/irgc-claims-destroyed-amazon-bahrain-data-center/,250,2026-07-25 02:46:51
+49034868,Half-Life 2 running natively on HaikuOS,https://discuss.haiku-os.org/t/haiku-nvidia-porting-nvidia-driver-for-turing-gpus/16520?page=18,277,2026-07-25 02:46:51
+49035303,"Nvidia, Microsoft, Meta warn against overregulating open-weight models",https://www.cnbc.com/2026/07/24/nvidia-microsoft-meta-open-weight-ai-models.html,518,2026-07-25 02:46:51
+49038298,Don't Take the Black Pill [video],https://www.youtube.com/watch?v=zLZwpH5lCD4,135,2026-07-25 02:46:51
+48973835,India's first privately-developed rocket reaches orbit on debut launch,https://arstechnica.com/space/2026/07/indias-first-privately-developed-rocket-reaches-orbit-on-dramatic-debut-launch/,507,2026-07-25 02:46:50
+49020545,Show HN: I simulated closing the Strait of Hormuz on real oil trade data,https://globaloilnetwork.staffinganalytics.io/,109,2026-07-25 02:46:50
+49034292,My security camera shipped a GitHub admin token in its login page,https://hhh.hn/hanwha-github-token/,521,2026-07-25 02:46:50
+49038433,Claude Opus 5,https://www.anthropic.com/news/claude-opus-5,1338,2026-07-25 02:46:50
+49040296,Postgres LISTEN/NOTIFY actually scales,https://www.dbos.dev/blog/postgres-listen-notify-scalability,217,2026-07-25 02:46:50
+49040741,Opus 5 is currently #1 on Artificial Analysis Intelligence Leaderboard,https://artificialanalysis.ai/models,158,2026-07-25 02:46:50
+49042751,"Sperm Whales blow bubbles to achieve restful, vertical sleep",https://news.st-andrews.ac.uk/archive/sperm-whales-blow-bubbles-to-achieve-restful-vertical-sleep/,36,2026-07-25 02:46:50
 49021786,Emacs Is a Lispboard,https://en.andros.dev/blog/06bfd107/emacs-is-a-lispboard/,97,2026-07-24 02:47:46
 49027052,Mourning Dan Williams,https://lwn.net/Articles/1084545/,24,2026-07-24 02:47:46
 48978989,Meta Garbage Collection: Using OCaml's GC to GC Rust,https://soteria-tools.com/blog/meta-garbage-collection,57,2026-07-24 02:47:45
