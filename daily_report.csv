@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+48997828,Some more things about Django I've been enjoying,https://jvns.ca/blog/2026/07/21/more-nice-django-things/,136,2026-07-27 03:20:52
+49006049,What's Under Your Feet in New York City?,https://practical.engineering/blog/2026/7/21/whats-under-your-feet-in-new-york-city,168,2026-07-27 03:20:52
+49016917,Using sed to make indexes for books (1997),https://www.pement.org/sed/make_indexes.txt,53,2026-07-27 03:20:52
+49022355,"I learned PCB design, 3D printing and C just to listen to music",https://pentaton.app/blog/2026-07-12-introducing-pentaton-lp/,186,2026-07-27 03:20:51
+49057175,Kill The Cookie Banner,https://killthecookiebanner.eu/,856,2026-07-27 03:20:51
+49057666,Show HN: Reverse Minesweeper,https://sunflowersgame.com/,161,2026-07-27 03:20:51
+49057877,The New AI Superpowers: Focus and Followthrough,https://www.rickmanelius.com/p/the-new-ai-superpowers-focus-and,160,2026-07-27 03:20:51
+49058993,The relay market powering token resellers and fraud,https://vectoral.com/blog/token-relay-market,164,2026-07-27 03:20:51
+49060945,How to Block Some of the Bots,https://nochan.net/b/Internet-Crap/20260606-How-To-Block-Some-Of-The-Bots/,88,2026-07-27 03:20:51
+49063648,Show HN: Port Zero – how I learned to stop worrying and love PORT=0,https://portzero.net/,12,2026-07-27 03:20:51
+49020842,The Usefulness of Useless Knowledge (1939) [pdf],https://faculty.lsu.edu/kharms/files/flexner_1939.pdf,32,2026-07-27 03:20:50
+49038035,History of John Backus's functional programming project [draft],https://softwarepreservation.computerhistory.org/FP/,15,2026-07-27 03:20:50
+49057398,Go Analysis Framework: modular static analysis by go team,https://pkg.go.dev/golang.org/x/tools/go/analysis,186,2026-07-27 03:20:50
+49060295,How to Write English Prose,https://thelampmagazine.com/blog/how-to-write-english-prose,87,2026-07-27 03:20:50
+49060509,How AST-grep Rewrote Tree-sitter in Rust and Made It 30% Faster,https://astgrep.com/blog/tree-sitter-rust-rewrite,84,2026-07-27 03:20:50
+49062120,Plasma Tunnels Reveal How Dying Satellites Fall to Earth,https://spectrum.ieee.org/space-debris-atmosphere-burn-up,50,2026-07-27 03:20:50
+49057241,"Htmx 4.0, the first JavaScript library to release exclusively on the Game Boy",https://swag.htmx.org/en-cad/products/htmx-4-the-game,373,2026-07-27 03:20:49
+49059367,Design is compromise,https://stephango.com/design-is-compromise,202,2026-07-27 03:20:49
+49059398,"Show HN: CheapSecurity – Lightweight, Self-Hosted CCTV for Linux SBCs",https://github.com/gmrandazzo/CheapSecurity,115,2026-07-27 03:20:49
+49060724,Introduction to Data-Oriented Design [pdf],https://www.gamedevs.org/uploads/introduction-to-data-oriented-design.pdf,127,2026-07-27 03:20:49
+49061887,Simulate cassette tape audio profiles using FFmpeg,https://github.com/AARomanov1985/Audio-Cassette-Simulation,88,2026-07-27 03:20:49
+49062700,Teaching Kids Forth,https://gracefulliberty.com/articles/teaching-kids-forth/,64,2026-07-27 03:20:49
+49063523,Fonts In Use – Find out where a font is used,https://fontsinuse.com/,28,2026-07-27 03:20:49
+49021270,Show HN: Physically accurate black hole you can put in your room,https://blackhole.plav.in,82,2026-07-27 03:20:48
+49060495,French firefighters face 'pyrocumulonimbus' for first time,https://www.france24.com/en/live-news/20260726-french-firefighters-face-pyrocumulonimbus-for-first-time,205,2026-07-27 03:20:48
+49060856,"Decker, a platform that builds on the legacy of Hypercard and classic macOS",https://beyondloom.com/decker/,247,2026-07-27 03:20:48
+49062291,We have proof automation now,https://www.imperialviolet.org/2026/07/26/zstd-lean.html,98,2026-07-27 03:20:48
+49063022,US citizen charged after GrapheneOS phone wipes during airport search,https://www.techspot.com/news/113236-us-prosecutors-charge-atlanta-man-after-grapheneos-phone.html,292,2026-07-27 03:20:48
+49063175,"Scriptc by Vercel: TypeScript-to-Native compiler, no JavaScript engine in binary",https://github.com/vercel-labs/scriptc,38,2026-07-27 03:20:48
+49063754,PGSimCity - How PostgreSQL Works,https://nikolays.github.io/PGSimCity/,190,2026-07-27 03:20:47
 49006096,How My Images Are Dithered,https://dead.garden/blog/how-my-images-are-dithered.html,219,2026-07-26 02:55:42
 49045159,Android May Soon Restrict On-Device ADB,https://kitsumed.github.io/blog/posts/android-may-soon-restrict-on-device-adb/,883,2026-07-26 02:55:42
 49047365,Bitchat is now on Radicle,https://radicle.network/nodes/rosa.radicle.network/rad%3Az2v9tRJz1oknFAqCSY5W5c76nVvm6,215,2026-07-26 02:55:42
