@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49085811,How Do I Profile eBPF Code?,https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/,111,2026-07-29 02:46:34
+49088058,MCP 2026-07-28 Specification: transport going stateless,https://blog.modelcontextprotocol.io/posts/2026-07-28/,109,2026-07-29 02:46:34
+49091703,Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU,https://studio.academa.ai/,24,2026-07-29 02:46:34
+49092151,Show HN: Learning Rust by writing a Markdown to HTML compiler,https://andreadimatteo.com/md-to-html-compiler.html,8,2026-07-29 02:46:34
+49028358,Show HN: How far do I have to go to run into 100k people?,https://imjasonh.github.io/playground/population-rays/,51,2026-07-29 02:46:33
+49036460,The Fabled Flatbreads of Uzbekistan (2015),https://www.aramcoworld.com/articles/2015/the-fabled-flatbreads-of-uzbekistan,82,2026-07-29 02:46:33
+49082022,"Kimi Linear: An Expressive, Efficient Attention Architecture (2025)",https://arxiv.org/abs/2510.26692,287,2026-07-29 02:46:33
+49083314,New HIV vaccine shows unprecedented success in preclinical study,https://www.lji.org/news-events/news/post/new-hiv-vaccine-shows-unprecedented-success-in-preclinical-study/,576,2026-07-29 02:46:33
+49084813,"Una GPS smart watch – Repairable, USB-C charging, developer-friendly",https://unawatch.com/,145,2026-07-29 02:46:33
+49084987,Now is the time to give LLMs access to the ACM digital library,https://cacm.acm.org/opinion/now-is-the-time-to-give-llms-access-to-the-acm-digital-library/,119,2026-07-29 02:46:33
+49089240,Pacing the frontier,https://www.pacingthefrontier.com/,92,2026-07-29 02:46:33
+49091994,Industry Brief: Private 5G for Manufacturing and Industrial Sites [pdf],https://framerusercontent.com/assets/HV1dtfKZyXK2aknO6go8Cemejl8.pdf,7,2026-07-29 02:46:33
+49085666,Zig's Incremental Compilation Internals,https://mlugg.co.uk/posts/incremental-compilation-internals/,200,2026-07-29 02:46:32
+49085698,Kimi K3 Architecture Overview and Notes,https://sebastianraschka.com/blog/2026/kimi-k3-architecture-notes.html,327,2026-07-29 02:46:32
+49085731,Delayed Gratification – Proud to Be 'Last to Breaking News',https://www.slow-journalism.com/,241,2026-07-29 02:46:32
+49087091,Discovering Cryptographic Weaknesses with Claude,https://www.anthropic.com/research/discovering-cryptographic-weaknesses,187,2026-07-29 02:46:32
+49087306,The iPhone Upgrade Program is being replaced by Apple Upgrade,https://www.apple.com/shop/iphone/iphone-upgrade-program,145,2026-07-29 02:46:32
+49091738,The Difference Between a Button and a Link,https://unplannedobsolescence.com/blog/buttons-vs-links/,36,2026-07-29 02:46:32
+49091895,Lightweight Spring Boot Monitoring Without Prometheus and Grafana,https://pvrlabs.xyz/articles/lightweight-spring-boot-monitoring.html,12,2026-07-29 02:46:32
+49092112,Multiple Mouse Cursors in Wayland,https://blinry.org/multi-seat-wayland/,18,2026-07-29 02:46:32
+49055816,Teach yourself programming in ten years (1998),https://www.norvig.com/21-days.html,59,2026-07-29 02:46:31
+49069033,Truth is not a direction: a Tarski attack on LLM probes,https://abeljansma.nl/2026/07/10/truth-is-not-a-direction.html,21,2026-07-29 02:46:31
+49086788,"Substack writers, you need a website",https://elizabethtai.com/2026/06/10/substack-writers-you-need-a-website/,427,2026-07-29 02:46:31
+49086971,Steel Bank Common Lisp version 2.6.7,https://sbcl.org/all-news.html?2.6.7,203,2026-07-29 02:46:31
+49089814,Half-Life ported to Mac OS 9,https://mac-classic.com/news/half-life-ported-to-mac-os-9/,166,2026-07-29 02:46:31
+49091379,ReFrame – The EPaper Camera,https://reframe.camera/,41,2026-07-29 02:46:31
+49091730,Hubble: Open-source notetaking app for you and your agents,https://www.hubble.md/,42,2026-07-29 02:46:31
+49092499,LearnVector – Andrew Ng's AI company building one‑to‑one learning experiences,https://learnvector.ai/,22,2026-07-29 02:46:31
+49089755,Codex Security,https://github.com/openai/codex-security,366,2026-07-29 02:46:30
+49090607,"Show HN: I was tired of opening 2 tabs for every HN link, so I made a userscript",https://github.com/twalichiewicz/HNewhere,150,2026-07-29 02:46:30
 49067352,Libsm64: Mario 64 as a library for use in external game engines,https://github.com/libsm64/libsm64,186,2026-07-28 02:39:31
 49072361,MAI-Cyber-1-Flash inside MDASH,https://microsoft.ai/news/introducing-mai-cyber-1-flash-inside-mdash/,220,2026-07-28 02:39:31
 49073665,Bytecode-to-Source Mapping,https://tidefield.dev/bytecode-to-source-mapping/,39,2026-07-28 02:39:31
