@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49047351,The Rust on ESP Book,https://docs.espressif.com/projects/rust/book/,128,2026-07-30 02:31:22
+49099143,Launch HN: Tokenless (YC S26) – Automatic model switching to save money,https://usetokenless.com/,53,2026-07-30 02:31:22
+49099804,Some thoughts about Anthropic's new cryptanalysis results,https://blog.cryptographyengineering.com/2026/07/29/some-notes-about-anthropics-new-results/,110,2026-07-30 02:31:22
+49104140,Man and the Computer by John G. Kemeny (1972 book by the co-creator of BASIC),https://archive.org/details/mancomputerbyjoh0000john,21,2026-07-30 02:31:22
+49061213,Angels in Coptic Magic I: Introduction,https://www.coptic-magic.phil.uni-wuerzburg.de/index.php/2026/01/16/angels-in-coptic-magic-i-introduction/,6,2026-07-30 02:31:21
+49062997,Refactoring cuisine: how an Iraqi stew sailed to Singapore,https://iza.ac/posts/2026/07/the-journey-of-bamya/,25,2026-07-30 02:31:21
+49080031,"Recursive Filters: SMA, EMA, Low‑Pass, and a Tiny Kalman",https://www.staszewski.xyz/blog/recursive-filters/,13,2026-07-30 02:31:21
+49096654,Darktable,https://www.darktable.org/,299,2026-07-30 02:31:21
+49100043,Show HN: CheapFoodMap – A map of good meals under $10,https://cheapfoodmap.com/,134,2026-07-30 02:31:21
+49101529,"Commodification of Intelligence: Good, Bad, and Ugly Circular AI Deals",https://www.emergingtrajectories.com/lh/commodification-and-circularity/,61,2026-07-30 02:31:21
+49104747,Show HN: A local merge queue for parallel Claude Code agents,https://github.com/funador/claude-code-merge-queue,16,2026-07-30 02:31:21
+49096188,Document-borne AI worms can self-propagate through Copilot for Word,https://enklypesalt.com/posts/context-collapse-part3-ai-worming-through-word/,350,2026-07-30 02:31:20
+49096969,Handbook.md shows that long policy documents do not reliably govern agents,https://arxiv.org/abs/2607.25398,298,2026-07-30 02:31:20
+49098198,A.I. companies are recruiting electricians and carpenters by the thousands,https://www.nytimes.com/2026/07/29/business/economy/data-center-electricians-training.html,223,2026-07-30 02:31:20
+49101198,Turning a dumb AC unit smart (without losing my security deposit),https://prilik.com/blog/post/automating-ac-nyc/,114,2026-07-30 02:31:20
+49102425,A Trampoline,https://dogdogfish.com/blog/2026/07/29/a-trampoline/,74,2026-07-30 02:31:20
+49103026,SalesPatriot (YC W25) Is Hiring FDEs,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,1,2026-07-30 02:31:20
+49105136,Flume Water Monitor 915 MHz Security Is Pretty Good,https://waveformsecurity.com/blog/flume/,15,2026-07-30 02:31:20
+49089500,Anatomy of a Frontier Lab Agent Intrusion: A Timeline of the July 2026 Incident,https://huggingface.co/blog/agent-intrusion-technical-timeline,299,2026-07-30 02:31:19
+49095865,KOReader,https://koreader.rocks/,673,2026-07-30 02:31:19
+49099715,Keychron announces first open-source firmware for gaming mice,https://www.digitalfoundry.net/news/2026/07/keychron-announces-first-open-source-firmware-for-gaming-mice,299,2026-07-30 02:31:19
+49101852,Kimi K3-256k,https://www.kimi.com/code/docs/en/kimi-code/models,347,2026-07-30 02:31:19
+49103089,The Cold Email,https://zachholman.com/posts/cold-email,98,2026-07-30 02:31:19
+49104117,LLM Honeypot,https://llm2human.pages.dev/,72,2026-07-30 02:31:19
+49104335,The Productivity Mirage,https://frantic.im/mirage/,53,2026-07-30 02:31:19
+49098510,Show HN: Open-source engine running Gemma 4 26B in 2 GB RAM on any M-series Mac,https://github.com/drumih/turbo-fieldfare,663,2026-07-30 02:31:18
+49098965,Superlogical,https://www.superlogical.com/,542,2026-07-30 02:31:18
+49102774,The coolest use for the Vision Pro,https://christianselig.com/2026/07/vision-pro-house/,411,2026-07-30 02:31:18
+49103285,AI's top startups are barely publishing their research,https://www.science.org/content/article/ai-s-top-startups-are-barely-publishing-their-research,234,2026-07-30 02:31:18
+49105190,A pharmacy chain in Vermont implemented AI for efficiency,https://vtdigger.org/2026/07/29/a-pharmacy-chain-in-vermont-implemented-ai-for-efficiency-its-led-to-delays-incorrect-information-and-privacy-concerns/,19,2026-07-30 02:31:18
 49085811,How Do I Profile eBPF Code?,https://naveensrinivasan.com/posts/2026-07-22-how-do-i-profile-ebpf-code/,111,2026-07-29 02:46:34
 49088058,MCP 2026-07-28 Specification: transport going stateless,https://blog.modelcontextprotocol.io/posts/2026-07-28/,109,2026-07-29 02:46:34
 49091703,Show HN: Manim (3Blue1Brown's animation engine) in the browser via WebGPU,https://studio.academa.ai/,24,2026-07-29 02:46:34
