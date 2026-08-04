@@ -1,4 +1,32 @@
 id,title,url,score,extraction_date
+49158714,The Billable Usage API: programmatic cost visibility for Cloudflare,https://blog.cloudflare.com/billable-usage-api/,47,2026-08-04 02:40:56
+49160437,The Dunning-Kruger effect may just be a data artefact (2020),https://www.mcgill.ca/oss/article/critical-thinking/dunning-kruger-effect-probably-not-real,127,2026-08-04 02:40:56
+49124213,Massively Parallel Postgres Backups,https://planetscale.com/blog/massively-parallel-postgres-backups,91,2026-08-04 02:40:55
+49125168,Decades-old fish sauce at abandoned factory in Canada finally being removed,https://defector.com/abandoned-fish-sauce-canada-interview,203,2026-08-04 02:40:55
+49140370,Living in the Math World Means Threading the Needle,https://www.quantamagazine.org/hong-wang-wins-2026-fields-medal-the-third-woman-ever-20260723/,5,2026-08-04 02:40:55
+49154228,AirLLM 70B inference with single 4GB GPU,https://github.com/lyogavin/airllm,193,2026-08-04 02:40:55
+49156750,Twenty Years of Pandoc,https://pandoc.org/twenty-years-of-pandoc.html,121,2026-08-04 02:40:55
+49159970,KisakCOD – open-source reimplementation of Call of Duty 4 Multiplayer,https://github.com/SwagSoftware/KisakCOD,44,2026-08-04 02:40:55
+49163286,Native Apps Should Be Avoided Whenever Possible,https://nooneshappy.com/article/native-apps-should-be-avoided-whenever-possible/,4,2026-08-04 02:40:55
+49082937,How Hollywood stopped making movies in Hollywood,https://www.statsignificant.com/p/how-hollywood-stopped-making-movies,171,2026-08-04 02:40:54
+49106935,Replacing the Kobo Libra H2O Battery,https://ei3lh.eu/2025/11/20/replacing-the-kobo-libra-h2o-battery/,51,2026-08-04 02:40:54
+49126602,They Forgot What Happened Last Time: Hacking the Windows 365 Link [video],https://media.ccc.de/v/emf2026-93-1-they-forgot-what-happened-last-time,18,2026-08-04 02:40:54
+49132992,200 Milliseconds,https://200ms.thenodebook.com,197,2026-08-04 02:40:54
+49152842,Bonsai: Janestreet's UI Library,https://github.com/janestreet/bonsai,309,2026-08-04 02:40:54
+49155555,Frame selection is the whole game: notes on making LLMs watch video,https://leoaido.com/how-llms-watch-video/,14,2026-08-04 02:40:54
+49156011,Andy Pavlo joins ClickHouse to establish ClickHouse Labs,https://clickhouse.com/blog/andy-pavlo-joins-clickhouse,278,2026-08-04 02:40:54
+49157997,Launch HN: Hoplite (YC S26) – Effortlessly deploy cloud coding agents,https://hoplite.sh,61,2026-08-04 02:40:54
+49161801,ZX Spectrum System Tour: Text Mode,https://bumbershootsoft.wordpress.com/2026/05/30/zx-spectrum-system-tour-text-mode/,23,2026-08-04 02:40:54
+49153374,Prevent cognitive debt by manually retyping LLM-generated code,https://ankursethi.com/blog/prevent-cognitive-debt-by-manually-retyping-llm-generated-code/,396,2026-08-04 02:40:53
+49155629,"MiniMax H3 Day-0 Support in ComfyUI: Open Weights, Native Audio, and 2K Video",https://blog.comfy.org/p/minimax-h3-day-0-support-in-comfyui,262,2026-08-04 02:40:53
+49158474,Celebrating 45 Years of Kermit with the First New C-Kermit Release in 15 Years,https://changelog.complete.org/archives/44456-celebrating-45-years-of-kermit-with-the-first-new-c-kermit-release-in-15-years-and-working-with-a-decades-old-c-codebase,132,2026-08-04 02:40:53
+49158581,"Smaller, faster, safer: running Kimi and GLM at scale",https://blog.cloudflare.com/smaller-faster-safer-models/,153,2026-08-04 02:40:53
+49162086,Windows XP 2002 for the Itanium: Unbridled rage,https://virtuallyfun.com/2026/08/03/windows-xp-2002-for-the-itanium-unbridled-rage/,64,2026-08-04 02:40:53
+49162653,There Will Come Soft Rains (1950) [pdf],https://users.wpi.edu/~zrbutzke/Docs/BradburyStories(1).pdf,40,2026-08-04 02:40:53
+49099336,Amazonian civilization had estimated 3M people in 3% of forest area,https://www.science.org/content/article/odd-shapes-hidden-dense-amazon-rainforest-reveal-sprawling-ancient-civilization,45,2026-08-04 02:40:52
+49156111,Devtools must be open source,https://blog.exe.dev/devtools-must-be-open-source,514,2026-08-04 02:40:52
+49157930,Ten advances in mathematics and theoretical computer science,https://openai.com/index/ten-advances-in-mathematics/,447,2026-08-04 02:40:52
+49161518,LLMs reward expertise,https://www.seangoedecke.com/llms-reward-expertise/,490,2026-08-04 02:40:52
 49093845,Folding Paper Globes,https://foldingglobes.com/globes,153,2026-08-03 02:56:25
 49096748,Playing with Georgia,https://mighil.com/playing-with-georgia,11,2026-08-03 02:56:25
 49113005,A tool for finding the causes of unstable Python tests,https://github.com/mgaitan/pytest-leak-finder,15,2026-08-03 02:56:24
