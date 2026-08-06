@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49099904,Pushing the limits of RISC-V emulation,https://shuklaayu.sh/blog/riscv-recompiler,26,2026-08-06 02:41:45
+49124917,Online Friends Are Real Friends,https://toska.bearblog.dev/re-online-friends-are-real-friends/,72,2026-08-06 02:41:45
+49183017,The Entropy of a Markov Chain,https://chillphysicsenjoyer.substack.com/p/the-entropy-of-a-markov-chain,107,2026-08-06 02:41:45
+49184216,The Valley of Webhooks,https://weli.dev/blog/the-valley-of-webhooks/,157,2026-08-06 02:41:45
+49185389,Launch HN: HyperProbe (YC S26) – Agents that do read-only debugging in prod,https://www.hyperprobe.co,45,2026-08-06 02:41:45
+49186720,Sycophantic AI Decreases Prosocial Intentions and Promotes Dependence (2025),https://arxiv.org/abs/2510.01395,78,2026-08-06 02:41:45
+49187084,What happens if you put work into the second dimension?,https://norbertkozsir.com/posts/work-in-the-second-dimension/,51,2026-08-06 02:41:45
+49106756,The Origins of Vintage Comics Part 1,https://www.truegrittexturesupply.com/blogs/news/origins-of-the-vintage-comics-aesthetic-part-1,12,2026-08-06 02:41:44
+49115096,Discovery of a multicomponent alloy forged by the Hiroshima atomic blast,https://www.science.org/doi/10.1126/sciadv.aeg8299,111,2026-08-06 02:41:44
+49125532,"Exact, parallel 2D Delaunay triangulation for int32 coordinates",https://github.com/morishuz/delaunay32,33,2026-08-06 02:41:44
+49126716,Goodhart's Law Comes for Every Benchmark You Trust,https://cacm.acm.org/blogcacm/goodharts-law-comes-for-every-benchmark-you-trust/,65,2026-08-06 02:41:44
+49146183,GNU Hurd News 2026-Q2,https://www.gnu.org/software/hurd/news/2026-q2.html,131,2026-08-06 02:41:44
+49181083,Position: LLMs Can't Jump,https://openreview.net/challenge?redirect=%2Fforum%3Fid%3DklU4737opt,247,2026-08-06 02:41:44
+49185111,Something is changing in the unit economics of software,https://nicolo.xyz/something-is-changing-in-the-unit-economics-of-software/,36,2026-08-06 02:41:44
+49185430,"Celld: Self-hosted, distributed Durable Objects",https://github.com/denoland/celld,153,2026-08-06 02:41:44
+49188022,I'm switching my phone from Android to Linux,https://runarcn.no/android-to-linux/,222,2026-08-06 02:41:44
+49189113,I'll be stepping back from leading product for X,https://twitter.com/nikitabier/status/2085105586966827343/,72,2026-08-06 02:41:44
+49151991,Branchless Rust: Making a Filter 4x Faster by Removing an If,https://www.greyblake.com/blog/branchless-rust/,31,2026-08-06 02:41:43
+49182996,"Cloudflare OS: an open platform for agents, apps, and work",https://blog.cloudflare.com/cloudflare-os/,481,2026-08-06 02:41:43
+49184755,"Changes at Google DeepMind: Demis Hassabis from CEO to Chair, Jeff Dean departs",https://blog.google/company-news/inside-google/message-ceo/next-chapter-ai-momentum/,499,2026-08-06 02:41:43
+49185983,"Atlassian Rovo Exfiltrates Data, Bypassing Controls",https://www.promptarmor.com/resources/atlassian-rovo-exfiltrates-data,179,2026-08-06 02:41:43
+49186762,Beating GPT-5.6 Sol on retrieval with 100x cheaper open models,https://neon.com/blog/how-castform-neon-beats-frontier-models-on-price-and-efficiency,231,2026-08-06 02:41:43
+49187061,"Born Against, or why hobby programming communities are against LLM usage",https://blog.fogus.me/llm/born-against.html,150,2026-08-06 02:41:43
+49187575,Muse Code and Muse Spark 1.2,https://research.meta.ai/blog/introducing-muse-code-and-muse-spark-1-2,187,2026-08-06 02:41:43
+49189075,Prime Agent: A self-improving RLM agent,https://www.primeintellect.ai/blog/prime-agent,111,2026-08-06 02:41:43
+49189234,NVIDIA’s Vera Whitepaper Has a Thread Loose,https://chipsandcheese.com/p/nvidias-vera-whitepaper-has-a-thread,92,2026-08-06 02:41:43
+49189287,The title cards in Blade Runner are amazing,https://randsinrepose.com/archives/blade-runner-title-cards/,163,2026-08-06 02:41:43
+49184960,Discovery Loop,https://www.discoveryloop.com/,619,2026-08-06 02:41:42
+49187256,Zed DeltaDB,https://zed.dev/deltadb,322,2026-08-06 02:41:42
+49191365,LLMs won't break symmetric crypto,https://www.bfswa.blog/p/llms-wont-break-symmetric-crypto,23,2026-08-06 02:41:42
 49127983,Don't stop early: Case-folding source code at memory speed,https://github.blog/engineering/architecture-optimization/dont-stop-early-case-folding-source-code-at-memory-speed/,50,2026-08-05 02:39:00
 49155605,Godox Transparent Viewfinder Camera C100,https://www.godox.com/product-e/C100.html,10,2026-08-05 02:38:59
 49166874,Keyv and friends compromised in active Shai-Hulud supply chain attack,https://www.aikido.dev/blog/keyv-and-friends-compromised-in-npm-supply-chain-attack,232,2026-08-05 02:38:59
