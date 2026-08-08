@@ -1,4 +1,32 @@
 id,title,url,score,extraction_date
+49158302,Why Are There Statues of Beavers on Top of This Oxford Street Shop?,https://londonist.com/london/history/oxford-street-beavers,53,2026-08-08 01:45:14
+49163202,"Curlese, Five Years Later",https://www.hypertesto.me/en/blog/2026/08/curlese-five-years-later,9,2026-08-08 01:45:14
+49211386,A year of fighting scrapers on my 1.5 million-page website,https://patronview.com/news/99-percent-of-my-website-traffic-is-bots/,374,2026-08-08 01:45:14
+49211660,Möbius-Strip Crosswords,https://quuxplusone.github.io/blog/2026/08/04/mobius-crossword/,53,2026-08-08 01:45:14
+49141521,Why are all the amounts values negative?,https://bankstatementconverter.com/blog/posts/2026-08-02-why-are-all-amounts-negative/,35,2026-08-08 01:45:13
+49146540,Captain Bible Reverse Engineering,https://github.com/peterkelly/captain-bible-re,11,2026-08-08 01:45:13
+49208393,Kitesurf: Agent-first browser that runs in V8 isolates,https://blog.cloudflare.com/kitesurf/,166,2026-08-08 01:45:13
+49208458,"Show HN: textlog – A quiet, text-only microblogging platform, open-source, no JS",https://textlog.cc/about,138,2026-08-08 01:45:13
+49208535,"Making Postgres 300x faster for analytics: batching, operator fusion, and SIMD",https://malisper.me/how-we-made-postgres-hundreds-of-times-faster-the-query-engine/,246,2026-08-08 01:45:13
+49209385,Show HN: Wyzer Programming Language,https://github.com/Wyzer-Lang/wyzer,173,2026-08-08 01:45:13
+49209572,Radical Study Suggests Life on Earth Arose Twice,https://www.sciencealert.com/radical-study-suggests-life-on-earth-arose-from-non-living-matter-twice,95,2026-08-08 01:45:13
+49135457,Carl's Required Reading,https://carlkolon.com/reading/,99,2026-08-08 01:45:12
+49157770,Guarded Methods in OCaml (2025),https://xvw.lol/en/articles/oop-refl.html,56,2026-08-08 01:45:12
+49207236,2027 memory capacity is reportedly sold out,https://www.ign.com/articles/ramageddon-continues-another-year-as-2027-memory-capacity-is-reportedly-sold-out,239,2026-08-08 01:45:12
+49211921,An all-sky map of half a million supermassive black holes,https://www.sdss.org/black-hole-mapper-release-20/,139,2026-08-08 01:45:12
+49214775,Psychological Warfare in Reverse Engineering (2015),https://github.com/xoreaxeaxeax/repsych,50,2026-08-08 01:45:12
+49216362,"Water system controllers don't belong on the internet, says ex-NSA chief",https://www.theregister.com/security/2026/08/07/water-system-controllers-dont-belong-on-the-internet-says-ex-nsa-chief-after-suspected-iran-attacks/5285070,124,2026-08-08 01:45:12
+49171223,Workers Drilling in Romania Broke into a Cave Sealed for 5.5M Years,https://travelandtannins.com/workers-drilling-in-romania-broke-into-a-cave-sealed-for-5-5-million-years-and-found-an-entire-living-world-that-has-never-seen-the-sun/,9,2026-08-08 01:45:11
+49209539,What happens if an entire class of workers loses faith in their careers,https://www.noemamag.com/why-is-everyone-in-tech-so-sad/,422,2026-08-08 01:45:11
+49213029,Responding to the next frontier of critical cyber capabilities,https://openai.com/index/responding-next-frontier-critical-cyber-capabilities/,153,2026-08-08 01:45:11
+49213754,Oracle bans AI-generated code from OpenJDK,https://app.dealroom.co/news/feed/oracle-bans-ai-generated-code-from-openjdk-despite-ellison-s-claim-oracle-isn-t-writing-its-own-code,390,2026-08-08 01:45:11
+49214468,Managing AI Coding Costs at Scale,https://www.databricks.com/blog/managing-ai-coding-costs-scale,167,2026-08-08 01:45:11
+49217993,The Nixpkgs core team has disbanded,https://discourse.nixos.org/t/the-nixpkgs-core-team-has-disbanded/79413,7,2026-08-08 01:45:11
+49214008,DeepSeek V4 Flash 0731,https://arcprize.org/results/deepseek-v4-flash-0731,464,2026-08-08 01:45:10
+49214098,Assembly Hall of Shame,https://github.com/xoreaxeaxeax/asm-hall-of-shame,249,2026-08-08 01:45:10
+49214770,"Ancient Library – 1,060 Greek/Latin texts, click any word to parse it",https://ancientlibrary.net/,146,2026-08-08 01:45:10
+49216946,U.S. Department of Energy Launches the Genesis Open Models Initiative,https://genesisopenmodels.anl.gov/,85,2026-08-08 01:45:10
+49217629,Should AI labs be treated like the owners of dangerous animals?,https://www.economist.com/science-and-technology/2026/08/06/should-ai-labs-be-treated-like-the-owners-of-dangerous-animals,31,2026-08-08 01:45:10
 49116252,Building Progressively Enhanced Forms Using htmx,https://www.rafa.ee/articles/progressive-enhanced-forms-htmx/,65,2026-08-07 02:44:15
 49161617,Towards Bottom-Up Enumeration in miniKanren via Pruning and Memoization,https://arxiv.org/abs/2607.25373,14,2026-08-07 02:44:15
 49200652,Qwen3.8 Max now ranked as the best overall model by agentic index,https://artificialanalysis.ai/?intelligence=agentic-index,447,2026-08-07 02:44:15
