@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49231315,Debugging Information for Inlined Functions,https://lwn.net/Articles/1083985/,19,2026-08-13 02:05:49
+49232312,A Tale of Dynamic Programming (2022),https://iagoleal.com/posts/dynamic-programming/,72,2026-08-13 02:05:49
+49271757,Shade Map,https://shademap.app,149,2026-08-13 02:05:49
+49271994,AI is removing the middle class of software engineering?,https://blog.florianherrengt.com/ai-removing-middle-class-software-engineering.html,732,2026-08-13 02:05:49
+49274858,Lovable raises $400M Series C,https://lovable.dev/blog/series-c,95,2026-08-13 02:05:49
+49275465,Reflex (YC W23) Is hiring Growth and GTM Roles,https://www.ycombinator.com/companies/reflex/jobs/71x5GFb-growth-engineer,1,2026-08-13 02:05:49
+49277799,Breaking the WAL,https://antithesis.com/blog/2026/wal-reset-bug/,61,2026-08-13 02:05:49
+49279197,Process as a Proxy for Motivation,https://bengodfrey.dev/blog/process/,24,2026-08-13 02:05:49
+49280585,What is AI governance and how to operationalize it?,https://www.etherionconsulting.com/blog/what-is-ai-governance-and-how-to-operationalize-it/,3,2026-08-13 02:05:49
+49227709,Waits: Arthur Samuel's Checkers,https://timereshared.com/waits-samuel-checkers/,4,2026-08-13 02:05:48
+49269090,Launch HN: Discovered Materials (YC P26) – AI agents to discover new materials,https://discoveredmaterials.com/research/,115,2026-08-13 02:05:48
+49270726,uBlock Origin Is Giving Up the Fight to Keep Ads Off Facebook,https://digitalescapetools.com/2026/08/ublock-origin-stops-chasing-facebook-ads.html,307,2026-08-13 02:05:48
+49272549,Why tiny JPEGs look different in Chrome,https://guillaumetech.github.io/posts/jpg-scaling-chrome/,258,2026-08-13 02:05:48
+49272569,"Someone is running mass vulnerability scans, spoofing AI bots like ClaudeBot",https://knownagents.com/insights,235,2026-08-13 02:05:48
+49272655,"Tim King, AmigaDOS developer, has died",https://amiga-news.de/en/news/AN-2026-08-00070-EN.html,240,2026-08-13 02:05:48
+49274027,Grok 4.6,https://x.ai/news/grok-4-6,412,2026-08-13 02:05:48
+49274757,Pixel Watch 5,https://blog.google/products-and-platforms/devices/pixel/pixel-watch-5/,105,2026-08-13 02:05:48
+49275335,HTML over WebSockets: real-time SPAs with barely any JavaScript,https://en.andros.dev/blog/ef4968f5/html-over-websockets-real-time-spas-with-barely-any-javascript/,148,2026-08-13 02:05:48
+49279013,"Thanks to social media, canned sardines are a scarcity on the supermarket shelf",https://corneroffifth.studio/why-cant-you-find-canned-sardines-right-now/,49,2026-08-13 02:05:48
+49269429,Why Target Common Lisp for Code Generation?,http://funcall.blogspot.com/2026/08/why-vibe-code-in-lisp.html,36,2026-08-13 02:05:47
+49270953,2026 Eclipse Webcams,https://jonty.github.io/2026_eclipse_webcams/,459,2026-08-13 02:05:47
+49272832,Tailscale Traces Database Corruption to 16y/o SQLite WAL-Reset Bug,https://tailscale.com/blog/sqlite-wal-reset-bug,808,2026-08-13 02:05:47
+49273478,Qwen3.8-2.4T,https://huggingface.co/Qwen/Qwen3.8-2.4T-A95B,503,2026-08-13 02:05:47
+49276574,Delta,https://zed.dev/blog/introducing-delta,399,2026-08-13 02:05:47
+49279928,Principia Mathematica is modern and insightful,https://okmij.org/ftp/Computation/Impressions/PrincipiaMathematica.html,46,2026-08-13 02:05:47
+49280047,"Build Wide, Ship Narrow",https://adapt.com/blog/build-wide-ship-narrow,29,2026-08-13 02:05:47
+49280061,What's New in Flutter 3.47,https://flutter.dev/blog/whats-new-in-flutter-3-47,42,2026-08-13 02:05:47
+49280103,Happy 45th Birthday to the IBM PC and Model F/XT,https://sharktastica.co.uk/articles/pc-fxt-45,29,2026-08-13 02:05:47
+49280184,Show HN: Ballet – Workflow automation that writes integrations against any API,https://www.ballet.dev/,17,2026-08-13 02:05:47
+49274600,DeepSeek V4 Pro 0813,https://openrouter.ai/deepseek/deepseek-v4-pro-0813,759,2026-08-13 02:05:46
 49218463,The Hat and the Spectre – Recent Groundbreaking Discoveries in Mathematics,https://momath.org/the-hat/,18,2026-08-12 02:03:49
 49259611,"Show HN: Git-knife – Edit commit messages, authors, and dates like a spreadsheet",https://github.com/TheRealYT/git-knife,131,2026-08-12 02:03:49
 49261895,OpenSSH 10.5/10.5p1,https://www.openssh.org/releasenotes.html#10.5,102,2026-08-12 02:03:49
