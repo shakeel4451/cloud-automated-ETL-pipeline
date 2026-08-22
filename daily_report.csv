@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49326852,"Show HN: Rex, a parallel functional language for scientific workflows",https://github.com/peterkelly/rex,6,2026-08-22 01:17:46
+49346444,The coolest anti-surveillance tools at Defcon [video],https://www.youtube.com/watch?v=-2uAsJ5EPAw,154,2026-08-22 01:17:46
+49386699,I'm becoming AI-blind,https://cymerys.com/w/im-becoming-ai-blind,262,2026-08-22 01:17:46
+49388095,"Kodak's ""pre-invented"" lunar orbiter camera; or, the fate of SAMOS readout",https://invertingvision.com/2026/08/10/kodaks-pre-invented-lunar-orbiter-camera-or-the-fate-of-samos-readout/,54,2026-08-22 01:17:46
+49388752,Claudette: Make Claude stop talking like a BuzzFeed article,https://github.com/adnanakil/nobuzz/blob/main/README.md,198,2026-08-22 01:17:46
+49390308,What happens when a GPU reads memory,https://blog.doubleword.ai/what-happens-when-a-gpu-reads-memory,97,2026-08-22 01:17:46
+49394028,Remotely unlocking electric scooters,https://henriemategui.com/post/remotely-unlocking-electric-scooters,22,2026-08-22 01:17:46
+49395171,HN: The Good Parts (2016),https://danluu.com/hn-comments/,11,2026-08-22 01:17:46
+49374853,A look under our trunk: what's in our compute,https://waymo.com/blog/2026/08/look-under-our-trunk/,93,2026-08-22 01:17:45
+49376197,Autolith: A programming agent with a live runtime,https://www.lambda-symbolics.com/autolith,23,2026-08-22 01:17:45
+49376769,Everyone says assembly is untyped—everyone is wrong,https://www.gingerbill.org/article/2026/08/20/designing-odins-inline-asm/,37,2026-08-22 01:17:45
+49379026,"GitHub, autoscaling, and the component substitution fallacy",https://surfingcomplexity.blog/2026/08/19/github-autoscaling-and-the-component-substitution-fallacy/,23,2026-08-22 01:17:45
+49387525,New Worlds: We are living in the future of J.G. Ballard or William Gibson,https://precastreinforced.co.uk/2026/08/16/new-worlds/,204,2026-08-22 01:17:45
+49389441,I ran Photoshop on a £0.60 computer chip,https://pointinthecloud.com/2026-08-19-144600.html,120,2026-08-22 01:17:45
+49389952,How we made a text-to-speech model respond in sub-50 ms,https://nari-labs.com/blog/qwen3-tts-speed-cost-frontier/,102,2026-08-22 01:17:45
+49391553,OTel isn't going well (and I made a spreadsheet about it),https://matduggan.com/otel-isnt-going-well-and-i-made-a-spreadsheet-about-it/,15,2026-08-22 01:17:45
+49392465,Tumble Forth – from assembly to OS with C compiler (2023),https://tumbleforth.hardcoded.net/,54,2026-08-22 01:17:45
+49393733,SalesPatriot (YC W25) Is Hiring Forward Deployed Engineers,https://www.ycombinator.com/companies/salespatriot/jobs/M46X6YX-forward-deployed-engineer,1,2026-08-22 01:17:45
+49327408,People of ACM – Russ Cox,https://www.acm.org/articles/people-of-acm/2026/russ-cox,90,2026-08-22 01:17:44
+49357530,"AI boosted homework scores, then exam scores dropped: study",https://www.economist.com/graphic-detail/2026/08/18/does-ai-stop-children-from-learning,228,2026-08-22 01:17:44
+49386163,DeepSeek-v4-flash-vision-exp,https://api-docs.deepseek.com/guides/vision/,458,2026-08-22 01:17:44
+49386895,Felony charges for citizen deleting phone data at US Border,https://www.nytimes.com/2026/08/21/us/politics/samuel-tunick-deleted-phone-felony.html,545,2026-08-22 01:17:44
+49387570,I accidentally logged hundreds of thousands of phone calls to military bases,https://lina.sh/blog/hijacking-e164-arpa,438,2026-08-22 01:17:44
+49388154,Kagi added a setting for removing paywalled links from search results,https://kagi.com/changelog#11296,1004,2026-08-22 01:17:44
+49392200,Scientists release biggest 2D map of the universe,https://newscenter.lbl.gov/2026/08/10/scientists-release-biggest-2d-map-of-the-universe/,144,2026-08-22 01:17:44
+49393052,Rust Glancer: Rust LSP using 100x less RAM,https://rust-glancer.github.io/blog/hello-world/,7,2026-08-22 01:17:44
+49394496,Three important steps in my maturation process,https://thomasdullien.github.io/posts/2026-08-21-three-important-steps-in-my-maturation-process/,39,2026-08-22 01:17:44
+49394827,"Show HN: OzBrain, a shared brain for knowledge between agents and your team",https://ozbrain.com,30,2026-08-22 01:17:44
+49389430,Felony Bench,https://www.felonybench.com/,510,2026-08-22 01:17:43
+49390427,Kobo can run apps now,https://bandarlabs.github.io/Cobalt/,425,2026-08-22 01:17:43
 49295112,Speeding Up (Small) Ruby Hashes,https://byroot.github.io/ruby/performance/2026/08/13/speeding-up-ruby-hashes.html,17,2026-08-21 01:22:05
 49374287,DiffusionGemma Technical Report,https://arxiv.org/abs/2608.00146,134,2026-08-21 01:22:05
 49374772,Hacking with Claude on a $27 smart watch,https://www.mikekasberg.com/blog/2026/08/19/hacking-with-claude-on-a-27-smart-watch.html,84,2026-08-21 01:22:05
