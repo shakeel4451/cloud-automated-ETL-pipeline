@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49618149,Colliding the Sum Checksum (2019),https://mcpherrin.ca/2019/11/23/sum-collisions.html,3,2026-09-13 03:45:45
+49644603,Show HN: See Sounds on Your Webcam,https://soundmap.darebuild.com/,13,2026-09-13 03:45:45
+49658672,I fixed a tractor using John Deere's self-repair service. Farmers aren't sold,https://www.wired.com/story/i-fixed-a-tractor-john-deere-self-repair-service/,111,2026-09-13 03:45:45
+49665502,Android NAT-T keepalive offload bypasses VPN lockdown,https://supuk.ch/papers/android-natt-keepalive-vpn-bypass,177,2026-09-13 03:45:45
+49671237,How Trail of Bits helps verify the integrity of Signal chats,https://blog.trailofbits.com/2026/08/11/how-trail-of-bits-helps-verify-the-integrity-of-your-signal-chats/,61,2026-09-13 03:45:45
+49672365,A Mathematical Framework for Transformer Circuits (2021),https://transformer-circuits.pub/2021/framework/index.html,86,2026-09-13 03:45:45
+49676324,LG Says We're Fake News [video],https://www.youtube.com/watch?v=ToP9xfLDSME,195,2026-09-13 03:45:45
+49649864,From Git to Fossil,https://lucio.albenga.es/web-en/posts/2025/from-git-to-fossil.html,7,2026-09-13 03:45:44
+49672510,We must pace the frontier,https://darioamodei.com/post/we-must-pace-the-frontier,582,2026-09-13 03:45:44
+49672842,I made a build visualizer to understand Bun's compile times,https://lalitm.com/post/buildprof/,104,2026-09-13 03:45:44
+49673580,Microcode in Intel's 8087 floating-point chip: the scale instruction,https://www.righto.com/2026/09/8087-microcode-reverse-engineering-fscale.html,93,2026-09-13 03:45:44
+49674498,Will There Be a 7G?,https://arxiv.org/abs/2609.01877,85,2026-09-13 03:45:44
+49675902,Linux Zoom client proactively reading everything written to X11 clipboard,https://hachyderm.io/@simontatham/117201594980991062,218,2026-09-13 03:45:44
+49677450,P(doom),https://lucumr.pocoo.org/2026/9/12/pdoom/,20,2026-09-13 03:45:44
+49678435,AgentsDock: An IDE designed for agentic AI research,https://agentsdock.net/,19,2026-09-13 03:45:44
+49678783,Align AI and Mathematics–To Something Else,https://liorpachter.wordpress.com/2026/09/12/align-ai-and-mathematics-to-something-else/,28,2026-09-13 03:45:44
+49625056,Stabilizing Rust's Never Type,https://lwn.net/SubscriberLink/1091015/d9e48318ed242b41/,153,2026-09-13 03:45:43
+49629624,Vintage Scientific Papers with LaTeX,https://github.com/Foadsf/vintage-latex,39,2026-09-13 03:45:43
+49640913,I Made a Non-Wi-Fi Mitsubishi AC Smart with an ESP32,https://medium.com/@ivangomezarnedo/how-i-added-a-non-wi-fi-mitsubishi-ac-to-home-assistant-22770661dd77,3,2026-09-13 03:45:43
+49645480,"LG denies TV spying claims, says tracking and snooping concerns 'not true'",https://www.tomshardware.com/tech-industry/big-tech/lg-strongly-denies-tv-security-claims-says-tracking-and-snooping-concerns-not-true-online-investigation-claims-216-000-000-spy-tvs-record-audio,455,2026-09-13 03:45:43
+49677577,Don't be the out of touch Kung Fu master – John Carmack,https://twitter.com/ID_AA_Carmack/status/2098443262214230095,44,2026-09-13 03:45:43
+49678432,No Atlantic hurricanes by Sept. 12 breaks a 60-year record,https://www.accuweather.com/en/hurricane/no-atlantic-hurricanes-by-sept-12-breaks-a-60-year-record/1932278,34,2026-09-13 03:45:43
+49678969,"Why are AI agents lying, cheating and coordinating?",https://yoshuabengio.org/en/publication/why-are-ai-agents-lying-cheating-and-coordinating,24,2026-09-13 03:45:43
+49636479,Getting 50 GB/S Back from the Apple Neural Engine,https://eiln.github.io/posts/ane-dma.html,94,2026-09-13 03:45:42
+49678683,Everyone should slow down AI development except for me,https://xeiaso.net/notes/2026/everyone-slowdown-but-me/,218,2026-09-13 03:45:42
+49619848,Apple iPod Engraver (2019),https://dunstanorchard.com/apple-ipod-engraver/,153,2026-09-13 03:45:41
+49673098,Nvidia is the central bank of AI,https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-the-central-bank-of-ai,417,2026-09-13 03:45:41
+49674050,Make your first edit to OpenStreetMap,https://high5apps.github.io/josm-plugin-website-wizard/,368,2026-09-13 03:45:41
+49676820,"Real-SWE: Benchmarking AI models on private, real-world, enterprise codebases",https://withspecific.com/benchmarks/real-swe,156,2026-09-13 03:45:41
+49679459,The Interim Computer Museum,https://icm.museum/,26,2026-09-13 03:45:40
 49634928,Testing Race Conditions,https://projectzero.google/2026/09/maccconc-race-condition.html,22,2026-09-12 03:38:46
 49635043,How we rebuilt complex permissions without migrating to Zanzibar,https://infisical.com/blog/folder-based-rbac,33,2026-09-12 03:38:46
 49649789,Show HN: Bodily Oddities,https://vester.si/bodily-oddities/,179,2026-09-12 03:38:46
