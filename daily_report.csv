@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+49796260,"Side-stepping the Secretary Problem, unwittingly",https://www.evalapply.org/posts/side-step-secretary-problem-hiring/index.html,63,2026-09-23 03:48:42
+49800566,Show HN: Training a model to identify AI web content from structure alone,https://arxiv.org/abs/2609.15369,49,2026-09-23 03:48:42
+49803635,16-bit Intel 8088 chip (c. 1985),https://allpoetry.com/16-bit-Intel-8088-chip,112,2026-09-23 03:48:42
+49787163,"George Lucas Returns to Earth, Bearing Gifts",https://commonedge.org/george-lucas-returns-to-earth-bearing-gifts/,92,2026-09-23 03:48:41
+49794478,Markdown in /src,https://htmx.org/essays/markdown-in-src/,101,2026-09-23 03:48:41
+49797323,Can gzip be a language model?,https://nathan.rs/posts/gzip-lm/,384,2026-09-23 03:48:41
+49801939,"Apple has added persistent 'ads' to iOS, and it's driving users crazy",https://www.techradar.com/phones/iphone/i-wish-apple-would-just-stop-that-crap-apple-has-added-persistent-ads-to-ios-and-its-driving-users-crazy,646,2026-09-23 03:48:41
+49807003,Obscura: VPN that can't log your activity,https://obscura.com/#faq-technical,94,2026-09-23 03:48:41
+49807021,Native apps written in TypeScript and CSS,https://github.com/geastack/examples,92,2026-09-23 03:48:41
+49780622,MUNI Heritage Weekend in San Francisco,https://daniel.lawrence.lu/blog/2026-09-20-muni-heritage-weekend/,176,2026-09-23 03:48:40
+49795053,The Softness of Metal,https://psyche.co/turning-points/his-frailty-made-ozzys-final-gig-true-heavy-metal,7,2026-09-23 03:48:40
+49795686,People hooked on vapes try a new way to quit: cigarettes,https://www.bloomberg.com/news/articles/2026-09-18/to-quit-vaping-some-are-starting-to-smoke,128,2026-09-23 03:48:40
+49800574,"Show HN: JevBench, a reproducible benchmark for typed decision models",https://benchmarkheaven.com/jev-models,77,2026-09-23 03:48:40
+49802161,OpenAI is well positioned to fast-follow Jev,https://arcturus-labs.com/blog/2026/09/21/will-openai-eat-jevs-lunch/,271,2026-09-23 03:48:40
+49805748,Unreal Agent,https://unreallabs.ai/blog/unreal-agent/,145,2026-09-23 03:48:40
+49808816,The current balance of power in open models,https://www.interconnects.ai/p/the-current-balance-of-power-in-open,57,2026-09-23 03:48:40
+49758709,How did AMD Ryzen get 50% faster in two years?,https://lemire.me/blog/2026/09/18/how-did-amd-ryzen-get-50-faster-in-two-years/,247,2026-09-23 03:48:39
+49794844,"Delta: Highly available, strongly consistent storage using chain replication (2022)",https://engineering.fb.com/2022/05/04/data-infrastructure/delta/,6,2026-09-23 03:48:39
+49796379,What California is learning from solar panels built over irrigation canals,https://www.kqed.org/science/2002033/heres-what-california-is-learning-from-solar-panels-built-over-irrigation-canals,147,2026-09-23 03:48:39
+49803959,WordPress: Unauthenticated path traversal leading to conditional RCE,https://github.com/WordPress/wordpress-develop/security/advisories/GHSA-7hp8-65ch-5whp,165,2026-09-23 03:48:39
+49804316,"Claude Opus 5.5 Intelligence, Performance and Price Analysis (Max)",https://artificialanalysis.ai/models/claude-opus-5-5,246,2026-09-23 03:48:39
+49806335,SAML: A fractal of bad design,https://blog.trailofbits.com/2026/09/21/saml-a-fractal-of-bad-design/,181,2026-09-23 03:48:39
+49806430,Pentagon says overreliance on AI contributed to missile strike on Iran school,https://www.bloomberg.com/graphics/2026-iran-school-attack/,487,2026-09-23 03:48:39
+49781862,ReBarUEFI: Resizable BAR for almost any UEFI system,https://github.com/xCuri0/ReBarUEFI,89,2026-09-23 03:48:38
+49801324,OpenAI GPT–6 Astra breaks Enigma message that has resisted solution since 2005,https://www.cryptocellar.org/bgac/the-mvueh-break.html,588,2026-09-23 03:48:38
+49803892,Claude Opus 5.5,https://www.anthropic.com/claude-opus-5-5,1295,2026-09-23 03:48:38
+49805278,'We hacked the FBI:' Hackers say they have data on all FBI employees,https://www.404media.co/we-hacked-the-fbi-hackers-say-they-have-data-on-all-fbi-employees/,471,2026-09-23 03:48:38
+49805509,GPT-6 Sol and Luna,https://openai.com/index/introducing-gpt-6-sol-and-luna/,1283,2026-09-23 03:48:38
+49808023,"Microsoft killed FoxPro in 2007. Anyway, here's FoxPro revived",https://foxscript.org/,218,2026-09-23 03:48:38
+49810829,US criticises Australia's proposed algorithm opt-out laws as 'censorship',https://www.bbc.com/news/articles/cqj3dgy8x3vro,54,2026-09-23 03:48:38
 49796292,"Smart Ring Maker Oura, Backers Seek $2.2B in US IPO",https://www.bloomberg.com/news/articles/2026-09-21/smart-ring-maker-oura-backers-seek-2-2-billion-in-us-ipo,8,2026-09-22 03:50:20
 49783274,"TXR: An Original, New Programming Language for Convenient Data Munging",https://www.nongnu.org/txr/,26,2026-09-22 03:50:19
 49783999,Kev: Tiny Jev-like family of decision models built on top of Qwen3.5,https://github.com/jaredpalmer/kev/tree/main,414,2026-09-22 03:50:19
