@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+50033486,FlowCE: Calculus on your TI-84 Plus CE,https://tommyb3ll.github.io/FlowCE/,40,2026-10-12 04:53:00
+50033601,"Safe SIMD in Rust, even on the inside",https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/,53,2026-10-12 04:53:00
+50042333,"Show HN: BetterWispr – Free, open-source dictation for Mac",https://betterwispr.com/,180,2026-10-12 04:53:00
+50042362,Valen's Memory Safety: A New Kind of Borrow Checking,https://verdagon.dev/blog/valen-group-borrowing,151,2026-10-12 04:53:00
+50045273,apsw: Another Python SQLite Wrapper,https://github.com/rogerbinns/apsw,75,2026-10-12 04:53:00
+50047802,Tattoos you can turn on and off,https://www.livescience.com/technology/cool-chemistry-trick-allows-new-tattoos-to-turn-on-and-off,40,2026-10-12 04:53:00
+50048490,Shredding JSON columns gave Logfire up to 1000x faster queries,https://pydantic.dev/articles/dynamic-shredding-2026-01-26,15,2026-10-12 04:53:00
+50049003,ClickHouse C – Talk to ClickHouse using its native binary protocol,https://github.com/ClickHouse/clickhouse-c,21,2026-10-12 04:53:00
+50049498,HashiCorp archives the Boundary open source repo,https://github.com/hashicorp/boundary,58,2026-10-12 04:53:00
+50051172,"X Is Bad, Though",https://lexontech.org/x-is-bad-though,30,2026-10-12 04:53:00
+50021989,I guess I'm using WebP now?,https://anderegg.ca/2026/10/08/i-guess-im-using-webp-now,94,2026-10-12 04:52:59
+50039608,Vectorized CLZ and CTZ,https://purplesyringa.moe/blog/vectorized-clz-and-ctz/,27,2026-10-12 04:52:59
+50041252,Programmable pigments: Photochromic nanoparticle inks for rewritable tattoos,https://www.cell.com/matter-light/fulltext/S3117-5848(26)00119-5,35,2026-10-12 04:52:59
+50043026,Terence Tao: Math 2.0 [pdf],https://teorth.github.io/tao-web/slides/math-2-0-caltech-2026.pdf,352,2026-10-12 04:52:59
+50045946,"NYC's ""Click to Cancel"" rule is now in effect",https://www.nyc.gov/main/click-to-cancel,403,2026-10-12 04:52:59
+50046241,"Chapter 1 of ""Ways of Seeing"" by John Berger (1972)",https://www.ways-of-seeing.com/ch1,93,2026-10-12 04:52:59
+50047055,"So, You’d Like To Sell Your Print Issues Of The Onion?",https://theonion.com/archivehunt/,282,2026-10-12 04:52:59
+50048312,Passkeys are a trap,https://nonfunctional.substack.com/p/passkeys-are-a-trap-do-not-use-them,407,2026-10-12 04:52:59
+50048522,Recursive self-improvement through collective intelligence,https://pub.sakana.ai/mass/,85,2026-10-12 04:52:59
+50048638,Google is illegaly cutting forest to build data centers,https://www.theguardian.com/technology/2026/oct/06/google-datacentres-finland-temporary-halt-environmental-impact-assessment,274,2026-10-12 04:52:59
+50049508,Local Indexing to reduce tool calling and token usage,https://tedhaley.ca/pensieve/,45,2026-10-12 04:52:59
+50034001,No portable way to detect string-to-float conversion errors in standard C,https://sebsite.pw/w/20261009-strtod.html,15,2026-10-12 04:52:58
+50034206,Calculus with Julia,https://jverzani.github.io/CalculusWithJuliaNotes.jl/,47,2026-10-12 04:52:58
+50045984,"Total Annihilation, rebuilt for modern computers",https://nanolathe.gg,425,2026-10-12 04:52:58
+50047091,Cartographers of North Korea (2019),https://cartographers-nk.wonyoung.so/,216,2026-10-12 04:52:58
+50047422,The gap in shared understanding of LLM capability is widening,https://twitter.com/karpathy/status/2109361546505966046,338,2026-10-12 04:52:58
+50048642,Fingerprints are the new cookies,https://royfish.dev/fingerprints-are-the-new-cookies,190,2026-10-12 04:52:58
+50049133,Illustration Beyond Proof,https://terrytao.wordpress.com/2026/10/11/illustration-beyond-proof/,48,2026-10-12 04:52:58
+50049411,Whatever became of holography? (2011),https://www.americanscientist.org/article/whatever-became-of-holography,100,2026-10-12 04:52:58
+50049872,Doory – Open-Source Canva,https://github.com/shaongitbd/doory,43,2026-10-12 04:52:58
 49984349,OpenSCAD the Programmers Solid 3D CAD Modeller,https://openscad.org/,120,2026-10-11 04:38:01
 50005743,C for Rust programmers,https://bd103.dev/blog/2026-10-07-c-for-rust-programmers/,127,2026-10-11 04:38:01
 50021899,Five months treating bugs like patients and coding agents like a medical team,https://www.cockroachlabs.com/blog/experiment-running-hospital-code/,95,2026-10-11 04:38:01
