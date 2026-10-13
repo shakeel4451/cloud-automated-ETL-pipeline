@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+50059115,Muse Wonder,https://research.meta.ai/blog/muse-wonder,586,2026-10-13 05:55:15
+50063042,Show HN: Brickbrag – A multiplayer brick-building world in the browser,https://brickbrag.com/,48,2026-10-13 05:55:15
+50064536,Blood cells from 80-year-old donor become stem cells with molecular age under 20,https://doi.org/10.1111/acel.70751,136,2026-10-13 05:55:15
+50065805,China Overtakes U.S. For First Time as Top Spender on R&D in 2024,https://japannews.yomiuri.co.jp/science-nature/science/20260908-347742/,116,2026-10-13 05:55:15
+50067098,Vi Hart's Big Navier-Stokes Post,https://www.patreon.com/vihart/posts/vi-harts-big-171939430,6,2026-10-13 05:55:15
+50036287,The Making Of Super Mario 64 – full Giles Goddard interview (2001),https://pixelatron.com/blog/the-making-of-super-mario-64-full-giles-goddard-interview-ngc/,237,2026-10-13 05:55:14
+50037711,Secret of Orange Cats Revealed After 60-Year Search,https://www.sciencealert.com/secret-of-orange-cats-finally-revealed-after-60-year-search,254,2026-10-13 05:55:14
+50056822,Solar panels that plug into your wall,https://www.nationalgeographic.com/environment/article/balcony-plug-in-solar-panels-renewable-energy,161,2026-10-13 05:55:14
+50057668,"Kevin Kelly's 2016 AI Predictions, 10 Years Later",https://taylor.town/kk-ai-2026,171,2026-10-13 05:55:14
+50060694,"Codex CLI installs a persistent, self-updating background daemon by default",https://github.com/openai/codex/issues/48195,520,2026-10-13 05:55:14
+50064438,Show HN: An experimental pattern-first DAW that supports MCP,https://github.com/andrewfader/blokkily,38,2026-10-13 05:55:14
+50064840,Show HN: SolidCraft – Open-Source Parametric CAD in Rust (With MCP Support),https://github.com/bherbruck/solidcraft,24,2026-10-13 05:55:14
+50065932,A look at OpenAI’s math that’s claimed computes faster Fourier transforms,https://www.argmin.net/p/faster-fourier-transforms,82,2026-10-13 05:55:14
+50047664,Auto Research: Integer multiplication below n log n,https://app.getsupers.com/auto-research,40,2026-10-13 05:55:13
+50055220,Citroen revives the 2CV for an electric age,https://www.bbc.com/news/articles/c620r33plgppo,299,2026-10-13 05:55:13
+50055593,Turn a WiFi 7 Router into a 320Msps Software Defined Radio Receiver,https://github.com/h0m3us3r/w1700k-sdr,313,2026-10-13 05:55:13
+50061791,Making big downloads resumable in Firefox,https://lunarwatcher.codeberg.page/til/firefox/resumable-big-downloads.html,146,2026-10-13 05:55:13
+50061859,Writing a Demoscene Intro for the ZX Spectrum,https://www.markround.com/blog/2026/zx-spectrum-intro,98,2026-10-13 05:55:13
+50063417,Phreak.ing – Internet Phone Switch,https://phreak.ing/,110,2026-10-13 05:55:13
+50063427,AI is a tool and using it well takes skill,https://yyhh.org/blog/2026/10/ai-is-a-tool/,315,2026-10-13 05:55:13
+50063717,Janas: Run LLMs larger than RAM by streaming experts from SSD,https://github.com/prabanta-dev/janas,92,2026-10-13 05:55:13
+50041866,The baffling intelligence of a single cell (2024),https://jsomers.net/e-coli-chemotaxis/,182,2026-10-13 05:55:12
+50055304,Hackers activate automatic defrosting in supermarket fridges across Europe,https://www.tomshardware.com/tech-industry/cyber-security/unprecedented-cyberattack-cripples-supermarket-fridges-across-europe-as-hackers-activate-automatic-defrosting-delivery-and-store-prices-also-impacted-by-incident,563,2026-10-13 05:55:12
+50058507,GLM-Legal,https://z.ai/blog/glm-legal,505,2026-10-13 05:55:12
+50058528,A Modern Web App in C,https://prophitt.me/writing/a-modern-web-app-in-c,480,2026-10-13 05:55:12
+50063138,Who is vfmaddrnd231pd?,https://purplesyringa.moe/blog/who-is-vfmaddrnd231pd/,163,2026-10-13 05:55:12
+50063365,Intel D270 GPU AI Accelerator–Up to 480 GB LPDDR5X,https://www.intel.com/content/www/us/en/products/details/discrete-gpus/data-center-gpu/d-series.html,148,2026-10-13 05:55:12
+50065692,AI Models Can Provably Hide Arbitrary Capabilities,https://arxiv.org/abs/2610.13928,95,2026-10-13 05:55:12
+50065713,"The Dock on Mac, from OS 10 to macOS 27",https://blog.jim-nielsen.com/2026/macos-dock-icons-over-time/,42,2026-10-13 05:55:12
 50033486,FlowCE: Calculus on your TI-84 Plus CE,https://tommyb3ll.github.io/FlowCE/,40,2026-10-12 04:53:00
 50033601,"Safe SIMD in Rust, even on the inside",https://shnatsel.github.io/safe-simd-in-rust-even-on-the-inside/,53,2026-10-12 04:53:00
 50042333,"Show HN: BetterWispr – Free, open-source dictation for Mac",https://betterwispr.com/,180,2026-10-12 04:53:00
