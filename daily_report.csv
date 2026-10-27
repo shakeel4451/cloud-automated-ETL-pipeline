@@ -1,4 +1,34 @@
 id,title,url,score,extraction_date
+50209525,Diamond Transistor,https://www.df.com/diamond-transistor,135,2026-10-27 04:07:31
+50211780,"Sigma Says the Compact, Modular FP2 Is the Ultimate Hybrid Camera",https://petapixel.com/2026/10/22/sigma-says-the-compact-modular-fp2-is-the-ultimate-hybrid-camera/,47,2026-10-27 04:07:31
+50213147,In Context [video],https://www.youtube.com/watch?v=P5eO7BNyJao,18,2026-10-27 04:07:31
+50213502,Native Prometheus Integration with Nginx,https://categorica.io/blog/2026.10.16_nginx-stats-prometheus/,44,2026-10-27 04:07:31
+50241925,Pharo 14,https://pharo.org/news/2026-10-26-Pharo14Release.html,245,2026-10-27 04:07:31
+50245524,Microsoft offers mass buyouts for roughly a quarter of its workforce,https://www.seattletimes.com/business/microsoft/microsoft-offers-mass-buyouts-for-roughly-a-quarter-of-its-workforce/,822,2026-10-27 04:07:31
+50200152,Blaise Pascal invented fixed route public transport (2024),https://humantransit.org/2024/12/one-of-the-greatest-inventions-in-the-history-of-human-transport.html,273,2026-10-27 04:07:30
+50231041,LISPy things you can do in 64K bytes of core (2019),https://t3x.org/lisp64k/index.html,39,2026-10-27 04:07:30
+50236681,SIMD-accelerated computer vision on a $2 microcontroller,https://shraiwi.com/blog/simd-fast-esp32s3/,185,2026-10-27 04:07:30
+50241664,Websites Should Be Printable,https://brennenputh.me/blog/printable-websites/,298,2026-10-27 04:07:30
+50242939,Anthropic S-1,https://www.sec.gov/Archives/edgar/data/2130357/000162828026067168/anthropicpbc-sx1.htm,1523,2026-10-27 04:07:30
+50243061,New iPad mini,https://www.apple.com/newsroom/2026/10/apple-gives-ipad-mini-its-biggest-update-ever/,157,2026-10-27 04:07:30
+50248124,GPT-6.1 Terra,https://openai.com/index/introducing-gpt-6-1-terra/,542,2026-10-27 04:07:30
+50252008,"Is PHP Running on Your ColdFusion Server? How to Check, and Remove It",https://www.gregoryalexander.com/blog/2026/10/23/is-php-quietly-running-on-your-coldfusion-server-how-to-check-and-remove-it,34,2026-10-27 04:07:30
+50204697,A Printer Printing onto Paper,https://twitter.com/macrofying/status/2112904628509528219,82,2026-10-27 04:07:29
+50226808,Virtual and Real World Combine at LAN Party (1998),https://www.latimes.com/archives/la-xpm-1998-aug-10-mn-11870-story.html,21,2026-10-27 04:07:29
+50232322,Historical Telecommunications,https://retronetworking.org/,5,2026-10-27 04:07:29
+50234707,"APC says let there be light, with standards to speed up photonics manufacturing",https://www.nextplatform.com/connect/2026/10/23/apc-says-let-there-be-light-with-raft-of-standards-to-speed-up-photonics-manufacturing/5304950,16,2026-10-27 04:07:29
+50245385,Solar power is becoming bigger than nuclear,https://www.bbc.com/future/article/20261023-how-solar-became-bigger-than-nuclear,183,2026-10-27 04:07:29
+50245831,CSS-Tricks has a new owner,https://css-tricks.com/css-tricks-has-a-new-owner/,404,2026-10-27 04:07:29
+50247493,Nietzschian Debugger,https://github.com/DilawarShafiq/nietzschian-debugger,145,2026-10-27 04:07:29
+50247928,A Man from the Future: Why Johnny Can't Stop Abstracting,http://muratbuffalo.blogspot.com/2026/10/the-man-from-future-why-johnny-cant.html,137,2026-10-27 04:07:29
+50252159,Cross-request KV cache exposure in the GLM-5.3 Workers AI model (155 responses),https://blog.cloudflare.com/kv-cache-exposure-remediation/,96,2026-10-27 04:07:29
+50245138,Sebastian Raschka's from-scratch video course on building reasoning models,https://magazine.sebastianraschka.com/p/building-reasoning-models,608,2026-10-27 04:07:28
+50248055,Oldest GUI application that still runs on Windows 11,https://blog.enlyth.com/posts/oldest-windows-gui-app-win-11/,339,2026-10-27 04:07:28
+50248371,Type Server Protocol,https://github.com/microsoft/pylance-release/blob/main/docs/tsp/type-server-protocol.md,208,2026-10-27 04:07:28
+50251344,"Three new discoveries in mathematics, computer science, and physics",https://openai.com/index/building-scientific-understanding-with-academic-communities/,617,2026-10-27 04:07:28
+50251661,The Exponential Time Hypothesis Is False [pdf],https://github.com/openai/math/blob/main/preprints/The-Exponential-Time-Hypothesis-is-False-October-25-2026/paper.pdf,412,2026-10-27 04:07:28
+50253529,"16-bit Windows (Windows 1.x, 2.x, 3.0, 3.1, etc.) on 64-bit Windows",https://github.com/otya128/winevdm,40,2026-10-27 04:07:28
+50254300,Incremental rust builds up to 92x faster than cargo/rustc,https://github.com/indexable-inc/blaze,20,2026-10-27 04:07:28
 50218633,Root shell on Samsung TV,https://twitter.com/log4j/status/2113014142600953868?s=46,798,2026-10-26 03:44:39
 50237379,Steal My Bitcoin CTF PoC,https://github.com/KillaBoi/StealMyBitcoin-PoC,25,2026-10-26 03:44:39
 50208628,Reverse engineering a Beyblade launch tracker,https://blog.simone.computer/reverse-beyblade-launch-tracker,40,2026-10-26 03:44:38
