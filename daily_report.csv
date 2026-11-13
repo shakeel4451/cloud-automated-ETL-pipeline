@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+50471650,"Show HN: AgentRun – open-source, Self-improving Managed Agents",https://github.com/Parcha-ai/agentrun/blob/main/README.md,89,2026-11-13 05:35:16
+50467297,Our software engineering interviews are changing a little,https://blog.janestreet.com/software-engineering-interviews-are-changing-a-little/,194,2026-11-13 05:35:15
+50467460,Talking Zen 6 with Mike Clark at AMD In-Depth,https://chipsandcheese.com/p/talking-zen-6-with-mike-clark-at,206,2026-11-13 05:35:15
+50471431,Gemini 4 Hydrogen,https://blog.google/innovation-and-ai/models-and-research/gemini-models/introducing-gemini-4-hydrogen/,495,2026-11-13 05:35:15
+50473888,Announcement: Conductor Is Back,https://twitter.com/charlieholtz/status/2120973052024598620,25,2026-11-13 05:35:15
+50474883,Chinese frontier AI models carry the fingerprint of export-controlled GPUs,https://unemploymentlabs.com/checkpoint-forensics,233,2026-11-13 05:35:15
+50458849,Relax: JIT compiler for Rust to reduce build times,https://makepad.github.io/relax/,139,2026-11-13 05:35:14
+50460263,"Sift: LSP, Lint, Format Lisp, Scheme and Emacs Lisp",https://github.com/jjba23/sift,33,2026-11-13 05:35:14
+50465829,Anthropic IPO,https://ipo.anthropic.com/us/,873,2026-11-13 05:35:14
+50466410,Adapting CPython for Yk,https://tratt.net/laurie/blog/2026/adapting_cpython_for_yk.html,61,2026-11-13 05:35:14
+50467618,Abandoned Quake 4 expansion finished by modders and now playable,https://www.moddb.com/mods/openq4/downloads/openq4-0141-windows-x64,254,2026-11-13 05:35:14
+50474311,AI is turning Apple's app review process into a nightmare for synth developers,https://synthanatomy.com/2026/11/ai-is-turning-apples-app-review-process-into-a-nightmare-for-developers.html,139,2026-11-13 05:35:14
+50474586,Show HN: RealtimeVAD – trading false positives for 110ms earlier end-of-speech,https://github.com/KoljaB/RealtimeVAD,10,2026-11-13 05:35:14
+50468888,I'm making LLMs work on small and old devices,https://github.com/hyperionaidev/smolmaxxing/,314,2026-11-13 05:35:13
+50471731,Service degradation on Microsoft 365,https://status.cloud.microsoft/,666,2026-11-13 05:35:13
+50471761,Turning a 22-year-old Postgres type-confusion primitive into RCE,https://mehmetince.net/part-3-6-how-i-ended-up-turning-a-22-year-old-postgresql-type-confusion-primitive-into-rce-cve-2026-6460/,161,2026-11-13 05:35:13
+50477231,Nvidia employees petition to bring back Jensen Huang,https://www.wired.com/story/nvidia-employees-petition-for-jensen-huangs-return/,291,2026-11-13 05:35:13
+50477649,Brave Search API now accepts agentic payments via the x402 protocol,https://brave.com/blog/search-api-agentic-payments/,17,2026-11-13 05:35:13
+50478543,"Show HN: PharmA2A, an open protocol for pharmacy-to-supplier orders on A2A",https://github.com/pharma2a/pharma2a,3,2026-11-13 05:35:13
+50470488,"Show HN: My $300 embroidery machine needed a subscription, so I built my own app",https://github.com/simpsoka/zigzag,419,2026-11-13 05:35:12
+50472038,Rust 1.100,https://blog.rust-lang.org/2026/11/12/Rust-1.100.0/,543,2026-11-13 05:35:12
+50472260,Gemini 4 Hydrogen and Orchestrator,https://antigravity.google/blog/gemini-4-hydrogen-in-google-antigravity/,357,2026-11-13 05:35:12
+50472490,Dwarf planet candidate appears which takes roughly 280 years to orbit our sun,https://www.smithsonianmag.com/smart-news/astronomers-found-a-mysterious-object-orbiting-far-beyond-pluto-it-could-be-a-new-dwarf-planet-hidden-in-our-solar-system-180989857/,244,2026-11-13 05:35:12
+50473190,"Former Nvidia CEO Huang had a relationship with a second employee, sources say",https://www.reuters.com/technology/former-nvidia-ceo-huang-had-relationship-with-second-employee-sources-say-2026-11-12/,182,2026-11-13 05:35:12
+50474361,Foundation Models framework,https://developer.apple.com/foundation-models-framework/,172,2026-11-13 05:35:12
+50475713,Edge0-145B: Frontier AI Capabilities on Your Own Computer,https://edge0.ai/blog/introducing-edge0-145b-frontier-ai-capabilities-on-your-own-computer,158,2026-11-13 05:35:12
+50467087,Jensen Huang resigns,https://apnews.com/article/nvidia-megaspeed-china-singapore-huang-5403f152a601cf82ce939f1d24fffa0f,3211,2026-11-13 05:35:11
+50477714,Switcher (2004),https://folklore.org/Switcher.html,59,2026-11-13 05:35:11
+50478515,IceWM,https://ice-wm.org/,11,2026-11-13 05:35:11
 50413487,The Learjet Repo Man (2009),https://www.salon.com/2009/06/06/lear_jet_repo_man/,36,2026-11-12 06:14:05
 50451903,Using voltage glitching to unleash the A100 in my mining card,https://blog.kate.land/posts/using-voltage-glitching-to-unlock-the-a100/,287,2026-11-12 06:14:05
 50452655,Can a Linear Program Do Weight-Space Programming?,https://nathan.rs/posts/weight-space-lp/,269,2026-11-12 06:14:05
