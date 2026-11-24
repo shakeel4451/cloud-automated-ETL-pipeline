@@ -1,4 +1,33 @@
 id,title,url,score,extraction_date
+50600838,C++26 is done (again): ISO C++ meeting trip report,https://herbsutter.com/2026/11/21/c26-is-done-again-trip-report-november-2026-iso-c-standards-meeting-buzios-brazil/,123,2026-11-24 08:54:05
+50615481,Kagi Mail (public beta),https://blog.kagi.com/kagi-mail-public-beta,417,2026-11-24 08:54:05
+50582698,How photos were transmitted by wire in the 1930s (2024),https://kottke.org/24/03/how-photos-were-transmitted-by-wire-in-the-1930s,53,2026-11-24 08:54:04
+50609685,GLM-5.4: Toward generalized coding with our first loop transformer,https://z.ai/blog/glm-5.4,1116,2026-11-24 08:54:04
+50611402,NariQ: BF16-level Qwen3.8-27B in a 10 GB file,https://huggingface.co/nari-labs/Qwen3.8-27B-NariQ-GGUF,166,2026-11-24 08:54:04
+50620328,Latent Introspection: LLMs Can Detect Prior Concept Injections,https://arxiv.org/abs/2602.20031,57,2026-11-24 08:54:04
+50620831,The search for a top dark matter candidate,https://www.smithsonianmag.com/science-nature/the-search-for-a-top-dark-matter-candidate-was-losing-hope-then-came-a-potential-signal-will-it-be-enough-to-energize-the-struggling-field-180989923/,45,2026-11-24 08:54:04
+50621466,"The Power of GraphQL, Without GraphQL",https://cobalt27.dev/,51,2026-11-24 08:54:04
+50622804,Rune: Rust VM for Emacs,https://github.com/CeleritasCelery/rune,36,2026-11-24 08:54:04
+50622854,Declare is a UI language for you and your AI,https://davidtemkin.github.io/declarelang/,51,2026-11-24 08:54:04
+50606611,Becoming a Magician,https://autotranslucence.wordpress.com/2018/03/30/becoming-a-magician/,3,2026-11-24 08:54:03
+50610170,New material gets stronger the more it bends,https://source.washu.edu/2026/11/breakthrough-material-gets-stronger-the-more-it-bends/,25,2026-11-24 08:54:03
+50615308,"""Dario is hyping the dangers so OSS models are illegal and he stays in control""",https://twitter.com/ylecun/status/2124550037912920090,1622,2026-11-24 08:54:03
+50617499,"Per Arm's request, this site will be discontinued on 4 December 2026 :(",https://arm.jonpalmisc.com/,1018,2026-11-24 08:54:03
+50619207,"Bored.com: Fun, interesting and cool websites to explore when bored",https://www.bored.com/,228,2026-11-24 08:54:03
+50620721,Freeing the iPod Nano 5G,https://viktorkrapivin.com/blog/nano5g-priv-prvd,102,2026-11-24 08:54:03
+50622934,Making a dumb TV just smart enough,https://qsantos.fr/2026/11/19/making-a-dumb-tv-just-smart-enough/,65,2026-11-24 08:54:03
+50592307,Arctic: A Practical Lock-Free Adaptive Radix Tree,https://www.usenix.org/conference/osdi26/presentation/ni,23,2026-11-24 08:54:02
+50593006,Ride the SQL curve from basics to mastery,https://sqlride.com/,25,2026-11-24 08:54:02
+50604710,Modernizing iperf/iperf3 and introducing fireperf,https://blog.daniel-baumann.ch/posts/20261122-1.html,90,2026-11-24 08:54:02
+50607512,Lowering Perplexity Without Scaling,https://micjm.com/blog/lowering-perplexity-without-scaling/,40,2026-11-24 08:54:02
+50611576,Nvidia Reinstates Jensen Huang as CEO,https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html,2524,2026-11-24 08:54:02
+50619103,GPUI is getting its own repository,https://github.com/zed-industries/gpui,244,2026-11-24 08:54:02
+50622774,New York Bans Subscription and Post-Purchase Fees on Cars,https://www.governor.ny.gov/news/money-your-pockets-governor-hochul-signs-bill-restricting-exploitative-vehicle-subscription,307,2026-11-24 08:54:02
+50614249,Ladybird is now in alpha,https://ladybird.org/posts/alpha/,1875,2026-11-24 08:54:01
+50620349,Stalwart is now a drop-in replacement for Microsoft Exchange,https://stalw.art/blog/microsoft-exchange-replacement/,435,2026-11-24 08:54:01
+50623515,Drone Maps of Salvage Yards,https://salvageyarddrone.wordpress.com/,74,2026-11-24 08:54:01
+50624061,AMD EPYC Zen 6 vs. Zen 1 Performance: 12.1x Geo Mean in Less Than 10 Years,https://www.phoronix.com/review/amd-epyc-9006-7601,55,2026-11-24 08:54:01
+50624497,2035 Came Early,https://fzakaria.com/2026/11/23/2035-came-early,62,2026-11-24 08:54:01
 50575007,How the World Draws the World,https://googlemapsmania.blogspot.com/2026/10/how-world-draws-world.html,20,2026-11-23 06:20:16
 50577353,Verifying formal models of Raft implementations,https://antithesis.com/blog/2026/verifying-formal-models/,20,2026-11-23 06:20:16
 50588375,"'Legally, they don't exist': the hybrid crabs puzzling biologists and fishers",https://www.theguardian.com/environment/2026/nov/21/alaska-bering-sea-heatwave-snow-tanner-hybrid-crabs-fishing-quotas,23,2026-11-23 06:20:16
